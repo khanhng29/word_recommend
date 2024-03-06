@@ -37,8 +37,8 @@ def predict():
             # seed_words = flask.request.args.get('current_frequence')
             # next_words = int(flask.request.args.get('next_words'))
             # num_samples = flask.request.args.get('num_samples')
-            
             request_data = flask.request.json
+            # print(request_data)
             seed_words = request_data.get('current_frequence')
             next_words = request_data.get('next_words')
             if seed_words is None or next_words is None:
