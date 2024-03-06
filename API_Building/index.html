@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tinymce/6.7.0/tinymce.min.js"
+        integrity="sha512-kGk8SWqEKL++Kd6+uNcBT7B8Lne94LjGEMqPS6rpDpeglJf3xpczBSSCmhSEmXfHTnQ7inRXXxKob4ZuJy3WSQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <!-- <script src="/tinymce.min.js"></script> -->
+    <title>Document</title>
+</head>
+
+<body>
+    <textarea id="autocompleter-autocompleteitem">
+        <p>test use @ to trigger: </p>
+      </textarea>
+    <script>
+        const specialChars = [];
+        tinymce.init({
+            selector: 'textarea#autocompleter-autocompleteitem',
+            height: 250,
+            setup: (editor) => {
+                editor.on('keydown', function (e) {
+                    if (e.keyCode == 32) {
+                        var content = editor.getContent({ format: 'text' });
+
+                        var words = content.split(' ');
+                        var currentWord = words[words.length - 1];
+
+                        var url = 'http://192.168.88.60:5555/words_rs_biLSTM';
+
+                        var data = {
+                            'current_frequence': currentWord,
+                            'next_words': 2,
+                            'num_samples': 5
+                        }
+
+                        var options = {
+                            method: 'POST',
+                            headers: {
+                                'Content-Type': 'application/json',
+                            },
+                            body: JSON.stringify(data) 
+                        };
+
+                        fetch(url, options)
+                            .then(response => response.json()) 
+                            .then(data => {
+                                specialChars.length = 0; 
+                                data.recommendations.forEach((recommendation, index) => {
+                                    specialChars.push({
+                                        text: recommendation,
+                                        value: recommendation,
+                                    });
+                                });
+                            })
+                            .catch(error => console.error('Error:', error));
+
+                    }
+                });
+                const onAction = (autocompleteApi, rng, value) => {
+                    editor.selection.setRng(rng);
+                    editor.insertContent(value);
+                    autocompleteApi.hide();
+                };
+
+                const getMatchedChars = (pattern) => {
+                    return specialChars.filter((char) => char.text.indexOf(pattern) !== -1);
+                };
+
+                /* An autocompleter that allows you to insert special characters */
+                editor.ui.registry.addAutocompleter('specialchars', {
+                    trigger: "\\",
+                    minChars: 0,
+                    columns: 1,
+                    onAction: onAction,
+                    fetch: (pattern) => {
+                        return new Promise((resolve) => {
+                            const results = getMatchedChars(pattern).map((char) => ({
+                                type: 'cardmenuitem',
+                                value: char.value,
+                                text: char.text,
+                                icon: char.value,
+                                items: [
+                                    {
+                                        type: 'cardcontainer',
+                                        direction: 'vertical',
+                                        items: [
+                                            {
+                                                type: 'cardtext',
+                                                text: char.value
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }));
+                            resolve(results);
+                        });
+                    }
+                });
+            }
+        });
+
+
+    </script>
+</body>
+
+
+</html>
