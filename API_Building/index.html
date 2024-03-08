@@ -12,11 +12,12 @@
 </head>
 
 <body>
-    <textarea id="autocompleter-autocompleteitem">
-        <p>test use @ to trigger: </p>
+    <textarea id="autocompleter-autocompleteitem" class="js-text" placeholder="Nhấn space + ` để hiển thị gợi ý">
       </textarea>
+      <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
     <script>
-        const specialChars = [];
+
+        // const specialChars = [];
         tinymce.init({
             selector: 'textarea#autocompleter-autocompleteitem',
             height: 250,
@@ -24,7 +25,6 @@
                 editor.on('keydown', function (e) {
                     if (e.keyCode == 32) {
                         var content = editor.getContent({ format: 'text' });
-
                         var words = content.split(' ');
                         var currentWord = words[words.length - 1];
 
@@ -41,24 +41,26 @@
                             headers: {
                                 'Content-Type': 'application/json',
                             },
-                            body: JSON.stringify(data) 
+                            body: JSON.stringify(data)
                         };
 
                         fetch(url, options)
-                            .then(response => response.json()) 
+                            .then(response => response.json())
                             .then(data => {
-                                specialChars.length = 0; 
+                                specialChars.length = 0;
                                 data.recommendations.forEach((recommendation, index) => {
                                     specialChars.push({
                                         text: recommendation,
                                         value: recommendation,
                                     });
+                                    console.log(specialChars)
+
                                 });
                             })
                             .catch(error => console.error('Error:', error));
-
                     }
                 });
+
                 const onAction = (autocompleteApi, rng, value) => {
                     editor.selection.setRng(rng);
                     editor.insertContent(value);
@@ -69,9 +71,21 @@
                     return specialChars.filter((char) => char.text.indexOf(pattern) !== -1);
                 };
 
+                var specialChars = [
+                    { text: 'exclamation mark', value: '!' },
+                    { text: 'at', value: '@' },
+                    { text: 'hash', value: '#' },
+                    { text: 'dollars', value: '$' },
+                    { text: 'percent sign', value: '%' },
+                    { text: 'caret', value: '^' },
+                    { text: 'ampersand', value: '&' },
+                    { text: 'asterisk', value: '*' },
+                    { text: 'abc', value: '`' }
+                ];
+             
                 /* An autocompleter that allows you to insert special characters */
                 editor.ui.registry.addAutocompleter('specialchars', {
-                    trigger: "\\",
+                    trigger: "`",
                     minChars: 0,
                     columns: 1,
                     onAction: onAction,
