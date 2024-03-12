@@ -1,0 +1,4326 @@
+báo cáo: 1
+tự: 2
+đánh giá: 3
+tđg: 4
+một: 5
+phần: 6
+quá trình: 7
+đảm bảo: 8
+chất lượng: 9
+đào tạo: 10
+tại: 11
+khoa: 12
+x: 13
+bao: 14
+gôm: 15
+03: 16
+chính: 17
+khái quát: 18
+nhằm: 19
+mô tả: 20
+vắn tắt: 21
+về: 22
+giới thiệu: 23
+theo: 24
+tiêu chuẩn: 25
+tiêu chí: 26
+đối chương trình: 27
+ngành: 28
+bộ: 29
+ctđt: 30
+giáo dục: 31
+ban hành: 32
+thông tư: 33
+042016: 34
+ttgdđt: 35
+ngày: 36
+1432016: 37
+kết luận: 38
+tóm tắt: 39
+những: 40
+điểm: 41
+mạnh: 42
+tồn tại: 43
+vấn đề: 44
+cần: 45
+cải tiến: 46
+kế hoạch: 47
+tổng hợp: 48
+kết quả: 49
+cuối: 50
+bản: 51
+báo cáo phụ lục: 52
+gồm: 53
+các: 54
+tài liệu: 55
+như: 56
+quyết định: 57
+thành lập: 58
+hội đồng: 59
+nhóm: 60
+viết: 61
+cơ sở: 62
+dữ liệu: 63
+danh mục: 64
+minh chứng: 65
+nêu: 66
+rõ: 67
+mục tiêu: 68
+cử nhân: 69
+là: 70
+nguồn: 71
+nhân lực: 72
+khả năng: 73
+phân tích: 74
+tư vấn: 75
+thiết kế: 76
+phát triển: 77
+triển khai: 78
+vận hành: 79
+hệ thống: 80
+thông tin: 81
+giải quyết: 82
+kinh tế: 83
+quản lý: 84
+quản trị: 85
+kinh doanh: 86
+kĩ năng: 87
+thái độ: 88
+cần thiết: 89
+đáp ứng: 90
+nhu cầu: 91
+xã hội: 92
+nguồn lực: 93
+cao: 94
+bối cảnh: 95
+cách mạng: 96
+công nghiệp: 97
+40: 98
+chuẩn: 99
+đầu ra: 100
+cđr: 101
+đều: 102
+xác định: 103
+rõ ràng: 104
+bao quát: 105
+yêu cầu: 106
+chung: 107
+chuyên biệt: 108
+thể hiện: 109
+chi tiết: 110
+ma trận: 111
+tích hợp: 112
+môn học: 113
+bao gồm: 114
+khối: 115
+kiến thức: 116
+chuyên ngành: 117
+đó: 118
+yếu tố: 119
+cụ thể hóa: 120
+thành: 121
+lĩnh vực: 122
+kỹ năng: 123
+cứng: 124
+nghề nghiệp: 125
+nghiên cứu: 126
+tư duy: 127
+ngoại ngữ: 128
+nắm: 129
+vững: 130
+sử dụng: 131
+thành thạo: 132
+phần mềm: 133
+thông dụng: 134
+phẩm chất: 135
+đạo đức: 136
+thành phẩm chất: 137
+cá nhân phẩm chất: 138
+thể: 139
+thấy: 140
+phù hợp: 141
+sứ mệnh: 142
+tầm: 143
+nhìn: 144
+trường: 145
+luật: 146
+đại học: 147
+phản ánh: 148
+bên: 149
+liên quan: 150
+1: 151
+đề cương: 152
+học phần: 153
+công bố: 154
+công khai: 155
+trên: 156
+website: 157
+dễ dàng: 158
+tiếp cận: 159
+mô tả ctđt: 160
+cũng: 161
+đề cập: 162
+triết lý: 163
+gắn: 164
+liền: 165
+thực tiễn: 166
+hội nhập: 167
+quốc tế: 168
+thông qua: 169
+việc: 170
+tăng cường: 171
+xúc tiến: 172
+hoạt động: 173
+hợp tác: 174
+đơn vị: 175
+thực tế: 176
+chương trình: 177
+thực tập: 178
+khóa: 179
+mỗi: 180
+đóng góp: 181
+giúp: 182
+sinh viên: 183
+tích lũy: 184
+chuyên môn: 185
+hình thành: 186
+tuyên bố: 187
+học phần đóng góp: 188
+vào: 189
+chỉ: 190
+2: 191
+xây dựng: 192
+quy định: 193
+gdđt: 194
+đồng thời: 195
+học tập: 196
+người: 197
+học: 198
+thị trường: 199
+lao động: 200
+tổ chức: 201
+doanh nghiệp: 202
+khi: 203
+từng: 204
+cách thức: 205
+hướng dẫn: 206
+tốt nghiệp: 207
+khóa khoa: 208
+dạy học: 209
+ctdh: 210
+cấu trúc: 211
+tỷ lệ: 212
+tính: 213
+cân đối: 214
+khối lượng: 215
+giờ: 216
+lý thuyết: 217
+thực hành: 218
+phân bổ: 219
+7: 220
+8: 221
+học kỳ: 222
+tiên quyết: 223
+trước: 224
+song hành: 225
+trình tự: 226
+logic: 227
+tất cả: 228
+khung: 229
+không chỉ: 230
+vị trí: 231
+công việc: 232
+học thể: 233
+đảm nhận: 234
+sau: 235
+học phần bổ trợ: 236
+cạnh: 237
+đảm bảo độ: 238
+rộng: 239
+sâu: 240
+khả năng học: 241
+thêm: 242
+khác: 243
+song song: 244
+hai: 245
+nhận: 246
+bằng: 247
+kép: 248
+lên: 249
+bậc: 250
+hơn: 251
+3: 252
+triết lý giáo: 253
+dụcmục: 254
+tiêu giáo dục: 255
+thực hiện: 256
+chiến lược: 257
+lấy: 258
+trung tâm: 259
+giảng viên: 260
+gv: 261
+đóng: 262
+vai trò: 263
+dẫn dắt: 264
+truyền cảm hứng: 265
+phát huy: 266
+tinh thần: 267
+chủ động: 268
+sáng tạo: 269
+luôn: 270
+nỗ lực: 271
+hết mình: 272
+phương pháp: 273
+giảng dạy: 274
+tích cực: 275
+không: 276
+ngừng: 277
+nâng: 278
+4: 279
+ngay: 280
+mở: 281
+tuyển sinh: 282
+đầu tiên: 283
+k44: 284
+năm học: 285
+20082009: 286
+áp dụng: 287
+hình thức: 288
+kiểm tra: 289
+ktđg: 290
+thống nhất: 291
+đối tượng: 292
+phân biệt: 293
+quy chế: 294
+tín chỉ: 295
+ngân hàng: 296
+đề: 297
+thi kiểm tra: 298
+rà soát: 299
+hoàn thiện: 300
+cập nhật: 301
+nội dung: 302
+đề thi: 303
+phải: 304
+năng lực: 305
+cấp độ: 306
+nhận thức: 307
+i: 308
+tái hiện: 309
+biết: 310
+tái tạo: 311
+hiểu: 312
+iii: 313
+lập luận: 314
+iv: 315
+bài: 316
+thi: 317
+thời gian: 318
+tương ứng: 319
+số: 320
+số lượng: 321
+kỳ: 322
+bảo mật: 323
+thikiểm tra: 324
+nhiều: 325
+đa dạng: 326
+sự: 327
+công bằng: 328
+mức độ: 329
+tham dự: 330
+học sinh viên: 331
+tham gia: 332
+giảng: 333
+dự án: 334
+bài tập: 335
+thuyết trình: 336
+giữa: 337
+kết thúc: 338
+viếttrắc nghiệm: 339
+máy: 340
+tin cậy: 341
+nhìn chung: 342
+nhà trường: 343
+tài khoản: 344
+phản hồi: 345
+kịp thời: 346
+cải thiện: 347
+5: 348
+đội ngũ: 349
+trình độ: 350
+thạc sỹ: 351
+trở: 352
+khoa học: 353
+nckh: 354
+hiệu quả: 355
+tốt: 356
+công nghệ: 357
+tổng: 358
+quy mô: 359
+664: 360
+quy đổisinh viên: 361
+gv2056: 362
+sv: 363
+đối hệ: 364
+chính quy: 365
+thấp: 366
+viênsv: 367
+gv25sv: 368
+do: 369
+322015: 370
+16122015: 371
+6: 372
+hỗ trợ: 373
+phục vụ: 374
+bởi: 375
+chuyên viên: 376
+nhân viên: 377
+chuyên nghiệp khoa trường: 378
+hành chính khoa: 379
+phòngbộ phận: 380
+phòng: 381
+hành chính: 382
+công tác: 383
+đối ngoại: 384
+truyền thông: 385
+thư viện: 386
+chu trình: 387
+khép kín: 388
+đầu vào: 389
+kiểm soát: 390
+quan tâm: 391
+đẩy mạnh: 392
+khuyến khích: 393
+tạo: 394
+động lực: 395
+thúc đẩy: 396
+nhân viên tích cực: 397
+hơn nữa: 398
+nhiệm vụ: 399
+giao: 400
+quy hoạch: 401
+tuyển dụng: 402
+chế độ: 403
+đối chuyên viên: 404
+đúng: 405
+quy trình: 406
+nhà nước: 407
+trườngkhoa: 408
+một cách: 409
+đồng bộ: 410
+đạt: 411
+chính sách: 412
+chăm sóc: 413
+sức khỏe: 414
+y tế: 415
+học đường: 416
+điều kiện: 417
+phong trào: 418
+văn nghệ: 419
+thể dục: 420
+thể thao: 421
+đảm bảo an toàn: 422
+trường học: 423
+hiểu biết: 424
+tôn trọng: 425
+pháp luật: 426
+chủ trương: 427
+đường lối: 428
+đảng: 429
+chấp hành: 430
+học sinh: 431
+hướng nghiệp: 432
+tăng: 433
+ngành nghề: 434
+vật chất: 435
+toàn: 436
+trạm: 437
+thể chất: 438
+ký túc xá: 439
+máy chiếu: 440
+wifi: 441
+loa: 442
+micro: 443
+điều: 444
+hòa: 445
+nhiệt độ: 446
+thiết bị: 447
+đèn chiếu: 448
+sáng: 449
+quạt: 450
+lắp: 451
+đt: 452
+đầy đủ: 453
+giảng dạy học tập: 454
+ngoài ra: 455
+đầu tư: 456
+kiểm thử: 457
+ứng dụng: 458
+bán: 459
+hàng: 460
+đa: 461
+kênh: 462
+tối ưu hóa: 463
+công cụ: 464
+tìm kiếm: 465
+seo: 466
+chủ: 467
+python: 468
+photoshop: 469
+góp phần: 470
+mục tiêu đề: 471
+ra: 472
+9: 473
+đbcl: 474
+sứ mạng: 475
+chức năng: 476
+định kỳ: 477
+điều chỉnh: 478
+tham khảo: 479
+uy tín: 480
+nước: 481
+đà nẵng: 482
+thành phố: 483
+hồ: 484
+chí minhvà: 485
+nền: 486
+thế giới: 487
+london: 488
+anh: 489
+đại học bang: 490
+washington: 491
+mỹ tham khảo: 492
+ý kiến: 493
+cựu: 494
+chuyên gia: 495
+xem xét: 496
+lại: 497
+bổ sung: 498
+10: 499
+quan trọng: 500
+đối sự: 501
+bền vững: 502
+nhà: 503
+giám sát: 504
+tình hình: 505
+11: 506
+toàn bộ: 507
+50: 508
+mt: 509
+khoa trường: 510
+cách: 511
+mã hóa: 512
+công thức: 513
+snabce: 514
+s: 515
+tắt: 516
+ký hiệu: 517
+hộp: 518
+tập hợp: 519
+một số: 520
+n: 521
+thứ tự: 522
+đánh số: 523
+hết: 524
+trường hợp: 525
+thì: 526
+chuỗi: 527
+12: 528
+ký tự: 529
+a số: 530
+b: 531
+c: 532
+thứ: 533
+nhất: 534
+01: 535
+ví dụ: 536
+s11101: 537
+mc: 538
+thuộc: 539
+s33215: 540
+15: 541
+20212022: 542
+tiến hành: 543
+mục đích: 544
+thực trạng: 545
+tìm: 546
+cơ hội: 547
+thách thức: 548
+đối ctđt: 549
+đề xuất: 550
+hành động: 551
+cụ thể: 552
+tiếp tục: 553
+bước: 554
+đăng ký: 555
+kiểm định: 556
+kđcl: 557
+cập nhật báo cáo: 558
+568: 559
+kh: 560
+25052021: 561
+năm: 562
+2021: 563
+766: 564
+qđ: 565
+chuyên trách: 566
+30: 567
+thành viên: 568
+cán bộ: 569
+viên chức: 570
+gv khoa: 571
+phòngtrung tâm: 572
+nhân sự: 573
+tài chính: 574
+csvc: 575
+pháp chế thanh: 576
+tratrung tâm: 577
+ctsv: 578
+ban: 579
+khu: 580
+nội trú: 581
+khảo thí: 582
+trưởng: 583
+phó chủ tịch: 584
+trực tiếp trưởng: 585
+công văn: 586
+1074: 587
+ktkđclgdgdđh: 588
+gdđh: 589
+1075: 590
+cục: 591
+28062016: 592
+thu thập: 593
+xử lý: 594
+thu: 595
+hoàn thành: 596
+hoàn chỉnh: 597
+phân công: 598
+đọc: 599
+chéo: 600
+hợp nhất: 601
+góp ý: 602
+đầu: 603
+tháng: 604
+102021: 605
+họp: 606
+phiên: 607
+toàn thể: 608
+trực tiếp: 609
+112021: 610
+công khai báo cáo: 611
+trang: 612
+nội bộ: 613
+rộng rãi: 614
+tập thể: 615
+cá nhân trường: 616
+hiệu trưởng: 617
+phê duyệt: 618
+chỉnh sửa: 619
+sẽ: 620
+gửi: 621
+thẩm định: 622
+ngoài: 623
+đưa: 624
+biện pháp: 625
+khắc phục: 626
+định hướng: 627
+trọng tâm: 628
+giai đoạn: 629
+tiếp theo: 630
+tuy: 631
+chưa: 632
+nhưng: 633
+bước đầu khoa: 634
+duy trì: 635
+1960: 636
+tiền thân trường: 637
+thương nghiệp: 638
+trung ương: 639
+1965: 640
+bắt đầu: 641
+1979: 642
+đổi: 643
+tên: 644
+1994: 645
+2016: 646
+tiếp nhận: 647
+mới: 648
+343: 649
+đường lý: 650
+thường kiệt: 651
+phường: 652
+lê hồng: 653
+phong thành phố: 654
+phủ lý: 655
+tỉnh: 656
+hà nam: 657
+bố trí: 658
+tổng thể: 659
+khu túc: 660
+ký xá: 661
+nhà ăn: 662
+đề án: 663
+tiến: 664
+tới: 665
+phân hiệu trường: 666
+đang: 667
+mô hình: 668
+cấp: 669
+trực thuộc: 670
+bộ môn: 671
+cấp bộ môn: 672
+bộ máy: 673
+giám hiệu hiệu trưởng: 674
+phó: 675
+14: 676
+18: 677
+đảng đoàn thể: 678
+đảng bộ: 679
+công đoàn đoàn: 680
+thanh niên hội: 681
+sinh viên hội: 682
+cựu giáo: 683
+chức hội: 684
+cựu chiến binh hội: 685
+nữ: 686
+tri thức: 687
+tổng số: 688
+trụ sở: 689
+hà nội: 690
+cơ sở hà: 691
+nam tính: 692
+92021: 693
+740: 694
+giáo sư: 695
+gs: 696
+49: 697
+phó giáo sư: 698
+pgs: 699
+128: 700
+tiến sỹ: 701
+ts: 702
+430: 703
+ths: 704
+86: 705
+44: 706
+thỉnh giảng: 707
+nước ngoài: 708
+đối tác: 709
+liên kết: 710
+hiện tại: 711
+16: 712
+khách sạn: 713
+dịch vụ: 714
+du lịch: 715
+lữ hành: 716
+marketing: 717
+logistics: 718
+cung ứng: 719
+kế toán: 720
+kiểm toán: 721
+nhân lực ngành: 722
+ngôn ngữ: 723
+26: 724
+21: 725
+hệ: 726
+đại trà: 727
+chính quy hệ: 728
+đc thù: 729
+02: 730
+06: 731
+05: 732
+đối phương thức: 733
+chính quy tập trung: 734
+liên tục: 735
+4000: 736
+4200: 737
+300: 738
+400: 739
+học viên: 740
+cao học: 741
+nghiên cứu sinh: 742
+tập trung: 743
+đại học hệ: 744
+vừa: 745
+500: 746
+tổ chức học: 747
+phạm vi: 748
+toàn quốc: 749
+mở rộng: 750
+khu vực: 751
+hiện nay: 752
+rất: 753
+thỏa thuận: 754
+biên bản: 755
+ghi nhớ: 756
+hợp đồng: 757
+hiệu lực: 758
+mạng lưới: 759
+hoa kỳ: 760
+canada pháp: 761
+nhật bản: 762
+trung quốc: 763
+đài: 764
+loan: 765
+hàn quốc: 766
+úc: 767
+thỏa thuận hợp tác: 768
+này: 769
+trao đổi: 770
+giao lưu: 771
+học thuật: 772
+hội thảo: 773
+thu hút: 774
+tài trợ: 775
+học bổng: 776
+tiên phong: 777
+phối hợp: 778
+đồng: 779
+thành công: 780
+đài loan: 781
+hiện: 782
+đại học nước ngoài: 783
+toulonvar: 784
+marseille pháp: 785
+solbridge: 786
+kwangwoon: 787
+quốc gia: 788
+chungnam: 789
+hùng đài: 790
+học viện: 791
+quảng tây: 792
+kwanseu: 793
+gakuin: 794
+cộng: 795
+dân chủ nhân dân: 796
+lào mông: 797
+cổ: 798
+canada: 799
+nay: 800
+cung cấp: 801
+trăm nghìn: 802
+nghìn: 803
+thạc sĩ: 804
+tiến sĩ: 805
+bồi dưỡng: 806
+đề tài: 807
+nhà nước hàng: 808
+trăm: 809
+cấp bộ: 810
+chục: 811
+cơ quan: 812
+thành tích: 813
+cộng đồng: 814
+ngày càng: 815
+sự nghiệp: 816
+công nghiệp hóa: 817
+hiện đại hóa: 818
+đất nước: 819
+phong tng: 820
+danh hiệu: 821
+anh hùng: 822
+tng: 823
+phần thưởng: 824
+cao quý: 825
+huân chương: 826
+độc lập: 827
+hạng: 828
+ba: 829
+2000: 830
+nhì: 831
+2008: 832
+thời kỳ: 833
+đổi mới: 834
+2010: 835
+2014: 836
+2015: 837
+cờ: 838
+thi đua: 839
+chính phủ: 840
+2020: 841
+tiền thân khoa: 842
+2005: 843
+28102016: 844
+876: 845
+sáp nhập: 846
+cơ cấu: 847
+chủ nhiệm khoa: 848
+phó trưởng: 849
+văn phòng: 850
+thư ký khoa: 851
+trực thuộc khoa: 852
+tin học: 853
+cơ hữu: 854
+34: 855
+24: 856
+truyền thống: 857
+phổ biến: 858
+quán triệt: 859
+sâu sắc: 860
+lãnh đạo: 861
+nghiên cứu viên: 862
+xu thế: 863
+phát triển khoa: 864
+sản phẩm: 865
+chuyển giao: 866
+cao thương hiệu: 867
+2025: 868
+trở thành: 869
+cao lĩnh vực: 870
+hướng: 871
+2030: 872
+xếp hạng: 873
+đông: 874
+nam á: 875
+hiệp hội: 876
+thừa nhận: 877
+nămlần: 878
+lần: 879
+sửa đổi: 880
+gần: 881
+2019: 882
+điều chỉnh phù hợp: 883
+tiết: 884
+dựa: 885
+tham khảo chương trình: 886
+florida: 887
+mỹ đại học: 888
+ie: 889
+tây ban: 890
+nha: 891
+louis: 892
+mỹ: 893
+một số học phần: 894
+khai phá: 895
+đây: 896
+công lập: 897
+việt nam: 898
+học liệu: 899
+cả: 900
+giáo trình: 901
+tình huống: 902
+đối tất cả: 903
+mang: 904
+chuyên môn nghề nghiệp: 905
+cao khoa: 906
+tập đoàn: 907
+lớn: 908
+kết nối: 909
+sinh vên: 910
+khởi nghiệp: 911
+chuyển giao kết quả: 912
+lợi thế: 913
+hỗ trợ giảng dạy: 914
+phối kết hợp: 915
+công ty: 916
+cổ phần mềm: 917
+bravo: 918
+cổ phần: 919
+ibpo: 920
+sapo: 921
+cybersoft: 922
+tuyển: 923
+thực tập viên: 924
+tiềm năng: 925
+trả: 926
+lương: 927
+trải nghiệm: 928
+căn cứ: 929
+022018: 930
+chỉ đạo: 931
+giám hiệu: 932
+cơ chế: 933
+nâng cấp: 934
+hiện hành: 935
+chất lượng ctđt: 936
+nhìn nhận đánh giá: 937
+khách quan: 938
+ưu nhược điểm: 939
+khẩn trương: 940
+sao: 941
+đã: 942
+điều chỉnh định hướng: 943
+cập nhật nội dung: 944
+đòi hỏi: 945
+cập nhật gắn: 946
+phân bổ hợp lý: 947
+câu: 948
+lạc bộ: 949
+trau dồi: 950
+giao tiếp: 951
+thường xuyên: 952
+k44s: 953
+k57s: 954
+tđg khoa: 955
+tự chủ: 956
+thế: 957
+thương mại: 958
+hiện đại: 959
+giá trị: 960
+cốt lõi: 961
+trách nhiệm: 962
+tiên tiến: 963
+nguyên tắc: 964
+tối thiểu năng lực: 965
+072015: 966
+bộ trưởng: 967
+vận dụng: 968
+nước đại học: 969
+chí minh: 970
+đc biệt: 971
+tiến trình: 972
+chuyển đổi: 973
+thông qua ngày: 974
+28112016: 975
+68: 976
+10022017: 977
+hội đồng khoa: 978
+112019: 979
+1566: 980
+25122019: 981
+thông báo: 982
+326: 983
+26042019: 984
+nền tảng: 985
+chú trọng: 986
+chuyên sâu: 987
+trang bị: 988
+tối thiểu: 989
+mềm cần thiết: 990
+phản biện: 991
+ý thức: 992
+bản thân: 993
+suốt: 994
+đời: 995
+kinh nghiệm: 996
+quy định luật: 997
+382005: 998
+qh11: 999
+14062005: 1000
+phát triển toàn diện: 1001
+đức trí thể: 1002
+mỹ tri thức: 1003
+nắm bắt: 1004
+tiến bộ: 1005
+khcn: 1006
+tương xứng: 1007
+thích nghi: 1008
+môi trường: 1009
+lập nghiệp: 1010
+nhân dân: 1011
+082012: 1012
+qh13: 1013
+2012: 1014
+chính trị: 1015
+thực hành nghề nghiệp: 1016
+đại học sinh viên: 1017
+toàn diện: 1018
+nguyên lý: 1019
+quy luật: 1020
+tự nhiên: 1021
+cơ bản: 1022
+1982: 1023
+ttg: 1024
+thủ tướng: 1025
+đối trình độ: 1026
+vững chắc: 1027
+giao tiếp ứng xử: 1028
+cần thiết thực hiện: 1029
+phức tạp: 1030
+thay đổi: 1031
+chịu: 1032
+cá nhân: 1033
+hướng dẫn truyền bá: 1034
+2040: 1035
+hàng hoá: 1036
+sở hữu: 1037
+trí tuệ: 1038
+văn hoá: 1039
+đủ: 1040
+văn hoá năng lực: 1041
+thích ứng: 1042
+công nghiệp hoá: 1043
+hiện đại hoá: 1044
+mục tiêu khoa: 1045
+bám: 1046
+sát: 1047
+tham chiếu: 1048
+asean: 1049
+khảo sát: 1050
+bài bản: 1051
+vì vậy: 1052
+khai thác: 1053
+12020: 1054
+phối hợp cục: 1055
+công thương: 1056
+địa bàn: 1057
+tỉnh thành: 1058
+phía: 1059
+bắc: 1060
+sớm: 1061
+lầnnăm: 1062
+2022: 1063
+trình độ asean: 1064
+so sánh: 1065
+trình độ giáo dục: 1066
+văn bản bộ: 1067
+so: 1068
+2017: 1069
+thực thành: 1070
+mềm: 1071
+xuyên: 1072
+đối sinh viên: 1073
+môn: 1074
+lý luận: 1075
+chủ nghĩa: 1076
+mác: 1077
+lênin: 1078
+tư tưởng: 1079
+đại cương: 1080
+kiến thức cơ bản: 1081
+toán: 1082
+tiếng: 1083
+gdtc: 1084
+gdqp: 1085
+chứng chỉ: 1086
+công: 1087
+csdl: 1088
+kho: 1089
+kỹ thuật: 1090
+quản trị mạng: 1091
+máy tính: 1092
+am hiểu: 1093
+giải pháp: 1094
+an toàn: 1095
+nghiệp vụ: 1096
+lập trình: 1097
+dùng: 1098
+yêu cầu thiết kế: 1099
+cài: 1100
+thử nghiệm: 1101
+bảo trì: 1102
+hoạch định: 1103
+lưu trữ: 1104
+dự báo: 1105
+hệ thống mạng: 1106
+lựa chọn: 1107
+phương án: 1108
+phát hiện: 1109
+trình diễn: 1110
+sinh viên thể: 1111
+khách hàng: 1112
+kĩ năng mềm: 1113
+soạn thảo: 1114
+văn bản: 1115
+email: 1116
+thái độ sinh viên: 1117
+hành vi: 1118
+đúng mực: 1119
+chuẩn mực: 1120
+công dân: 1121
+quan hệ: 1122
+mức: 1123
+rèn luyện: 1124
+trở lên: 1125
+vượt: 1126
+khó: 1127
+vươn: 1128
+nhau: 1129
+cao trình độ: 1130
+thông thường: 1131
+lập: 1132
+điều phối: 1133
+phát huy trí tuệ: 1134
+trung bình: 1135
+cấu thành: 1136
+nói: 1137
+cht: 1138
+chẽ: 1139
+biến động: 1140
+đúng đắn: 1141
+kỷ luật: 1142
+tác phong: 1143
+tiếp thu: 1144
+phương pháp luận: 1145
+tài nguyên: 1146
+erp: 1147
+thông minh: 1148
+bi tư vấn: 1149
+web: 1150
+thông tin mạng: 1151
+lỗ hổng: 1152
+yếu: 1153
+xử lý sự cố: 1154
+nhanh: 1155
+bộ phận: 1156
+lời: 1157
+cam kết: 1158
+khẳng định: 1159
+nhà trường khoa: 1160
+đối xã hội: 1161
+gv thể: 1162
+xã hội khoa: 1163
+điều tra khảo sát: 1164
+thư: 1165
+nhà khoa học: 1166
+cuộc: 1167
+cách mạng công nghiệp: 1168
+đối ngành: 1169
+xây dựng thang: 1170
+đo: 1171
+13: 1172
+phần lớn: 1173
+đề cao: 1174
+ngay thể: 1175
+loại hình: 1176
+ttbộ: 1177
+16042015: 1178
+nhà quản lý: 1179
+kết cấu: 1180
+hệ thống hóa: 1181
+quan điểm: 1182
+thực tiễn xã hội: 1183
+tính chất: 1184
+đồng thời sự: 1185
+họcvà: 1186
+nhà tuyển dụng: 1187
+130: 1188
+bảng: 1189
+46: 1190
+367: 1191
+396: 1192
+389: 1193
+41: 1194
+35: 1195
+39: 1196
+359: 1197
+406: 1198
+lao động khoa: 1199
+điều tra: 1200
+mẫu: 1201
+42: 1202
+hỏi: 1203
+1112020: 1204
+17112020: 1205
+27: 1206
+trả lời: 1207
+phiếu: 1208
+chiếm: 1209
+90: 1210
+ctđt khoa: 1211
+khá: 1212
+thể tích hợp: 1213
+407: 1214
+kịp: 1215
+khoảng: 1216
+433: 1217
+sinh viên khoa: 1218
+hầu như: 1219
+đông đảo: 1220
+học hỏi: 1221
+áp lực: 1222
+411: 1223
+441: 1224
+tiểu ban: 1225
+062021: 1226
+chu kỳ: 1227
+quy định chuẩn: 1228
+gia nhập: 1229
+quy định bộ: 1230
+đại học tập trung: 1231
+nguyên lí: 1232
+quản lí: 1233
+tác nghiệp: 1234
+kinh tế lượng: 1235
+thống kê: 1236
+toán học: 1237
+điện tử: 1238
+căn bản: 1239
+giải thuật mạng: 1240
+thanh toán: 1241
+sql: 1242
+server: 1243
+bổ trợ: 1244
+sang: 1245
+chuyên ngành đào tạo: 1246
+a: 1247
+quản lý mạng: 1248
+huấn luyện: 1249
+team: 1250
+work: 1251
+chuyên dụng: 1252
+thái độ hành vi: 1253
+nội quy: 1254
+văn thể: 1255
+phòng chống: 1256
+ma tuý: 1257
+tệ nạn: 1258
+tham gia công tác: 1259
+teamwork: 1260
+lớp: 1261
+lớp học phần: 1262
+thảo luận: 1263
+đoàn thể: 1264
+sáng kiến: 1265
+trường thể: 1266
+trực tuyến: 1267
+rd: 1268
+hàng hóa: 1269
+cơ quan chức năng: 1270
+phòng quản: 1271
+sở: 1272
+uỷ ban: 1273
+quận huyện: 1274
+bộ ngành: 1275
+viện: 1276
+cao đẳng: 1277
+trung học: 1278
+chuyên nghiệp: 1279
+thay thế: 1280
+ra bộ: 1281
+đo lường: 1282
+được: 1283
+mình: 1284
+nghiệm thu: 1285
+phê chuẩn: 1286
+dn: 1287
+thăm dò: 1288
+đi: 1289
+duy trì đẩy mạnh: 1290
+buổi: 1291
+tọa đàm: 1292
+kết nối tạo: 1293
+đối tác gia tăng: 1294
+liên hệ: 1295
+bồi dưỡng sinh viên: 1296
+67: 1297
+hoat: 1298
+đọng: 1299
+day: 1300
+hoc: 1301
+phuong: 1302
+phap giang: 1303
+đuơc: 1304
+xay dưng: 1305
+dang phu: 1306
+hơp: 1307
+đê: 1308
+tư đo: 1309
+giup: 1310
+chu đọng: 1311
+tiêp: 1312
+thu linh: 1313
+họi: 1314
+kiên thưc: 1315
+đat: 1316
+môi: 1317
+co: 1318
+thê tô: 1319
+chưc nhiêu: 1320
+hoat đọng: 1321
+giang day: 1322
+khac: 1323
+thuyết giảng: 1324
+nghe: 1325
+trình bày: 1326
+linh hoạt phép: 1327
+chọn: 1328
+tiến độ: 1329
+chậm: 1330
+tùy: 1331
+20192020: 1332
+ảnh hưởng: 1333
+đại dịch: 1334
+covid: 1335
+tương tác: 1336
+trans: 1337
+google: 1338
+classroom: 1339
+form: 1340
+đối: 1341
+giảng dạy khoa: 1342
+sinh hoạt: 1343
+sinh viên sư: 1344
+dung cac: 1345
+tin: 1346
+ki: 1347
+thuạt: 1348
+hin: 1349
+đai: 1350
+hô: 1351
+trơ: 1352
+chiêu sư: 1353
+dung video: 1354
+tao: 1355
+moi: 1356
+truơng: 1357
+hoc ly: 1358
+cuôn: 1359
+hut: 1360
+tạp trình bày: 1361
+kêt: 1362
+qua: 1363
+tạp tôt: 1364
+nhât: 1365
+điện thoại: 1366
+zalo: 1367
+cvht: 1368
+bắt buộc: 1369
+bắt đầu vào trường: 1370
+lịch: 1371
+ấn định: 1372
+linh hoạt: 1373
+phát sinh: 1374
+cố vấn: 1375
+điện thoại email: 1376
+lịch trình: 1377
+dự kiến: 1378
+lộ trình: 1379
+mong muốn: 1380
+giải đáp: 1381
+tìm hiểu: 1382
+nghien: 1383
+cưu bao: 1384
+đong: 1385
+đao: 1386
+tỉ lệ: 1387
+80: 1388
+hằng: 1389
+hội nghị: 1390
+chia sẻ: 1391
+dự: 1392
+gianh: 1393
+cac: 1394
+giai thương: 1395
+bctt: 1396
+kltn: 1397
+dài: 1398
+tuần: 1399
+nơi: 1400
+thời: 1401
+khóa biểu: 1402
+thời khóa: 1403
+biểu trường: 1404
+khoá biểu: 1405
+ppctt: 1406
+công đoàn: 1407
+phối hợp khoa: 1408
+thanh tra: 1409
+tuân thủ: 1410
+giờ giấc: 1411
+giảng học tập: 1412
+thực tế khoa: 1413
+miễn phí: 1414
+kỹ năng mềm: 1415
+thiết kế web: 1416
+đối tác khoa: 1417
+giàu: 1418
+điển hình: 1419
+chương trình hợp tác: 1420
+ipbo: 1421
+chuyên tư vấn: 1422
+thanh niên: 1423
+đoàn: 1424
+tncs: 1425
+sys: 1426
+hành trình: 1427
+đan xen: 1428
+tấm: 1429
+gương: 1430
+trẻ: 1431
+sinh: 1432
+vien khoa: 1433
+tich: 1434
+cưc: 1435
+tham gia nhiêu: 1436
+ngoai khoa: 1437
+đoan thanh: 1438
+nien: 1439
+va: 1440
+họi sinh: 1441
+vien tô: 1442
+chưc: 1443
+nhu: 1444
+em: 1445
+sự kiện: 1446
+tinh nguyn: 1447
+hiên: 1448
+mau: 1449
+nhan đao: 1450
+sưc: 1451
+mua: 1452
+lê họi: 1453
+nhu ngày: 1454
+hội: 1455
+sách văn hoá: 1456
+giơ: 1457
+trai: 1458
+đât: 1459
+thê thao: 1460
+diễn: 1461
+giai bong: 1462
+đa câp: 1463
+va truơng: 1464
+giải: 1465
+bóng ném: 1466
+mùa: 1467
+xuân: 1468
+thiếu nữ: 1469
+thi tài năng: 1470
+is: 1471
+got: 1472
+talent: 1473
+luy lam: 1474
+giau: 1475
+them: 1476
+ky nang: 1477
+tiêp sư: 1478
+tư tin: 1479
+thai: 1480
+đọ: 1481
+chuyen: 1482
+nghip: 1483
+tac: 1484
+than: 1485
+thin: 1486
+va trach: 1487
+nhim: 1488
+xa: 1489
+toạ đàm: 1490
+việc làm: 1491
+như vậy: 1492
+tiếp xúctrao: 1493
+trực tiếp doanh nghiệp: 1494
+cao kiến thức: 1495
+đêu: 1496
+thong bao: 1497
+thi va: 1498
+đanh gia điêm: 1499
+ren: 1500
+luyn: 1501
+vơi: 1502
+co kêt: 1503
+tạp trung binh: 1504
+thâp: 1505
+thi nha: 1506
+tô: 1507
+cuọc: 1508
+hop: 1509
+xet: 1510
+vu va: 1511
+phan anh: 1512
+đên giang: 1513
+vien phu: 1514
+trach: 1515
+điêu chinh: 1516
+cai thin: 1517
+mọt: 1518
+cach: 1519
+kip: 1520
+thơi: 1521
+tóm lại: 1522
+nguơi: 1523
+long: 1524
+va hoc: 1525
+hay: 1526
+phap: 1527
+đuơc sư: 1528
+dung: 1529
+sư: 1530
+thê hin: 1531
+tạp cua: 1532
+cua: 1533
+đôi: 1534
+bình quân: 1535
+hầu hết: 1536
+thang: 1537
+likert: 1538
+đồng ýlà: 1539
+ýtốt: 1540
+đồng ýkhá: 1541
+đồng ýkém: 1542
+hoàn toàn: 1543
+xem: 1544
+nhu vạy: 1545
+đa dang: 1546
+hương: 1547
+dân: 1548
+tạp phu: 1549
+nhăm: 1550
+chuân: 1551
+đâu: 1552
+mạnhcác: 1553
+dạy: 1554
+ngoại khóa: 1555
+dưới: 1556
+dù: 1557
+tuy nhiên: 1558
+nên: 1559
+phân tiếp tục: 1560
+nghiêm túc: 1561
+kỹ lưỡng: 1562
+mối: 1563
+43: 1564
+khả năng học tập: 1565
+rèn: 1566
+một số điểm: 1567
+kỹ năng thể: 1568
+họ: 1569
+thiết yếu: 1570
+100: 1571
+phương giảng: 1572
+dạyhọc: 1573
+tập: 1574
+chủ động thúc đẩy: 1575
+đơn thuần: 1576
+truyền thụ: 1577
+nhồi nhét: 1578
+thụ động: 1579
+khơi gợi: 1580
+tìm tòi sáng tạo: 1581
+mọi: 1582
+lúc: 1583
+nhấn mạnh: 1584
+tự nghiên: 1585
+cứutự: 1586
+tài liệu thể: 1587
+dành: 1588
+hướng dẫn sinh viên: 1589
+tự tin: 1590
+pháp: 1591
+cấp bậc: 1592
+coi trọng: 1593
+học tập thể hiện: 1594
+niềm: 1595
+đam mê: 1596
+tiếp xúc: 1597
+tham gia nckh: 1598
+phù hợp đề tài: 1599
+khoa học sinh viên: 1600
+công trình: 1601
+cao tham gia: 1602
+olympic: 1603
+lượng: 1604
+trao: 1605
+giải thưởng: 1606
+xuất sắc: 1607
+đánh thức: 1608
+nghiên cứu sinh viên: 1609
+kỹ năng khoa: 1610
+gp: 1611
+gỡ: 1612
+đc: 1613
+biệt khoa: 1614
+chú trọng học: 1615
+đi đôi hành: 1616
+đồng hành: 1617
+lắng nghe: 1618
+năng lực học tập: 1619
+435: 1620
+có: 1621
+4265: 1622
+riêng: 1623
+đậm: 1624
+dấu ấn: 1625
+mời: 1626
+tập huấn: 1627
+truyền tải: 1628
+đóng góp ý kiến: 1629
+giảng áp dụng: 1630
+kế hoạch hành động: 1631
+tuyên truyền: 1632
+từng lớp: 1633
+chuyển tải: 1634
+báo: 1635
+đăng: 1636
+tạp chí: 1637
+đề nghị: 1638
+20062007: 1639
+chuyển: 1640
+trang web: 1641
+quy định trường: 1642
+clo: 1643
+khâu: 1644
+xét: 1645
+thẳng: 1646
+kết hợp: 1647
+thpt: 1648
+xét tuyển: 1649
+thí sinh: 1650
+tổ hợp: 1651
+bloom: 1652
+biên soạn: 1653
+ngân hàng thi: 1654
+tự luận: 1655
+lớp học: 1656
+chuẩn bị: 1657
+bài học: 1658
+hình thức kiểm tra: 1659
+kỳ bao gồm: 1660
+trắc nghiệm: 1661
+giấy: 1662
+chấm: 1663
+rubrics: 1664
+đối hầu hết: 1665
+chuyên cần: 1666
+trọng số: 1667
+con: 1668
+08: 1669
+với: 1670
+thi thực hành: 1671
+thành phần: 1672
+đối sánh: 1673
+quy định khoa: 1674
+104: 1675
+thời điểm: 1676
+quyền: 1677
+nộp: 1678
+thời hạn: 1679
+qui định: 1680
+đợt: 1681
+tối đa: 1682
+95: 1683
+kết cấu tính: 1684
+cấp thiết: 1685
+tổng quan: 1686
+quốc phòng: 1687
+an ninh: 1688
+thường kỳ: 1689
+thường niên: 1690
+tích luỹ: 1691
+thái độ sinh viên kỳ: 1692
+công nhận: 1693
+số học phần: 1694
+200: 1695
+dịch bệnh: 1696
+covid19: 1697
+vẫn: 1698
+mềm sinh viên: 1699
+thực sự: 1700
+kiến nghị: 1701
+cụ thể thể: 1702
+chính xác: 1703
+52: 1704
+tiêu chí trọng: 1705
+đăng tải: 1706
+slide: 1707
+giảng tiết: 1708
+tiêu chí trọng số: 1709
+quy đổi: 1710
+chữ: 1711
+thi cử: 1712
+thông báo công khai: 1713
+yêu cầu thang: 1714
+ôn thi: 1715
+kì: 1716
+thảo luận điểm thi: 1717
+sinh viên tiết: 1718
+khoa mục đích: 1719
+kltn khoa: 1720
+thông báo danh sách: 1721
+danh sách: 1722
+kết quả báo cáo: 1723
+pktđbclgdsau: 1724
+túi: 1725
+xong: 1726
+kết luận điểm: 1727
+ghi: 1728
+kèm: 1729
+chữ ký: 1730
+nhập: 1731
+mạng: 1732
+07: 1733
+cổng: 1734
+tbc: 1735
+kltt khoa: 1736
+điểm số: 1737
+cộng điểm: 1738
+nói chung: 1739
+cảnh báo: 1740
+khiếu nại: 1741
+đơn: 1742
+kiếu nại: 1743
+xem xét lại: 1744
+vòng: 1745
+kể: 1746
+pqlđt: 1747
+thích hợp thể: 1748
+diện: 1749
+rơi: 1750
+tư điểm: 1751
+đối học kỳ: 1752
+học tập trung tâm: 1753
+khen thưởng: 1754
+do vậy: 1755
+phấn đấu: 1756
+20202021: 1757
+nhà trường quy định: 1758
+hình: 1759
+thi trực tuyến: 1760
+224: 1761
+492: 1762
+giảm: 1763
+bệnh dịch: 1764
+bảng điểm: 1765
+in: 1766
+đĩa: 1767
+đĩa01: 1768
+chiết xuất: 1769
+rubric: 1770
+minh bạch: 1771
+dễ tính toán: 1772
+hoàn toàn thể: 1773
+đánh giá thành tích: 1774
+tin học hóa: 1775
+tra xét: 1776
+tra cứu: 1777
+thuận lợi: 1778
+nhỏ: 1779
+giúp việc: 1780
+giúp đỡ: 1781
+dài hạn: 1782
+55: 1783
+tuần lễ: 1784
+cẩm nang: 1785
+lộ trình học tập: 1786
+quá trình học: 1787
+điều kiện tốt nghiệp: 1788
+đánh giá thành phần: 1789
+muốn: 1790
+phúc tra: 1791
+tải: 1792
+điểm danh: 1793
+nếu: 1794
+đăng ký học: 1795
+quy định đề xuất: 1796
+thắc mắc: 1797
+quyền lợi: 1798
+hòm thư: 1799
+gp mt: 1800
+tâm tư: 1801
+nguyện vọng: 1802
+chính thức: 1803
+ít nhất: 1804
+họp hành chính: 1805
+thủ tục: 1806
+kết quả học tập: 1807
+địa điểm: 1808
+phàn nàn: 1809
+sai sót: 1810
+nhầm lẫn: 1811
+hoàn toàn quyền: 1812
+bộ môn khoa: 1813
+kt: 1814
+đbclgd: 1815
+khiếu nại sinh: 1816
+viênphụ huynh: 1817
+thỏa đáng: 1818
+kết quả phúc khảo thể: 1819
+thư khiếu nại: 1820
+thông: 1821
+cũ: 1822
+ngày công bố điểm: 1823
+ghi nhận: 1824
+cvht khoa: 1825
+theo dõi: 1826
+hỗ trợ giải quyết: 1827
+phúc khảo điểm: 1828
+tương đối: 1829
+thấp xu hướng: 1830
+dần: 1831
+20162021: 1832
+phản hồi sinh viên: 1833
+quản lý phục: 1834
+phụ: 1835
+hài lòng: 1836
+tố cáo: 1837
+phương thức: 1838
+362: 1839
+2018: 1840
+xử lý giải quyết: 1841
+nhanh chóng: 1842
+biểu liên quan: 1843
+thuận tiện: 1844
+tác dụng: 1845
+ưu điểm: 1846
+do đó: 1847
+dễ: 1848
+định kì: 1849
+chứng minh tính: 1850
+khả thi: 1851
+qđtt: 1852
+khoa học khoa: 1853
+1021: 1854
+tb: 1855
+bố cục: 1856
+nội dung cụ thể: 1857
+gọi: 1858
+văn bằng: 1859
+chính thức khoa: 1860
+sứ mệnh khoa: 1861
+a00: 1862
+a01: 1863
+d01: 1864
+d07: 1865
+tiêu chí tuyển sinh: 1866
+gián tiếp: 1867
+a b: 1868
+d: 1869
+f: 1870
+chia: 1871
+phân chia: 1872
+ctđt thể: 1873
+kéo dài: 1874
+kỳ học: 1875
+tổng số chương: 1876
+tổng quát: 1877
+chương: 1878
+nghề: 1879
+mềm thái độ: 1880
+lợi ích sinh viên: 1881
+nổi trội: 1882
+ctdh khoa: 1883
+nội dung trình bày: 1884
+tuần tự: 1885
+dạng: 1886
+module: 1887
+từ học kỳ: 1888
+học phần nào: 1889
+lựa chọn học: 1890
+hình dung: 1891
+xin: 1892
+khác biệt ctđt: 1893
+tỉ trọng: 1894
+plos: 1895
+chú trọng kiến thức: 1896
+đối hoạt động: 1897
+đc biệt đối: 1898
+432007: 1899
+qđbgdđt bộ: 1900
+tín chỉvà: 1901
+chọn lọc: 1902
+hoạt động dạy học: 1903
+việt: 1904
+mã: 1905
+giảng dạy học phần: 1906
+cbgd: 1907
+kiêm nhiệm: 1908
+cb: 1909
+chuyên đề: 1910
+mục: 1911
+bảo đảm: 1912
+tương hợp: 1913
+giảng dạy học tập thể: 1914
+mã số: 1915
+tc: 1916
+36: 1917
+tiết thực: 1918
+hànhthảo luận: 1919
+20: 1920
+tổng số tiết: 1921
+bổ sungđiều: 1922
+chỉnhcập nhật: 1923
+học phần khoa: 1924
+tổng kết: 1925
+nguyên nhân: 1926
+đáng kể: 1927
+clos: 1928
+giảng giải: 1929
+nhómđược: 1930
+một cách hiệu quả: 1931
+phong phú: 1932
+mốc: 1933
+biểu mẫu: 1934
+chỉnh sửa khoa: 1935
+căn cứ việc: 1936
+thu thập phân tích: 1937
+nghiêm túc hiệu quả: 1938
+chú ý: 1939
+hạn chế: 1940
+tiếp tục tục tục: 1941
+thay đổi nhu cầu: 1942
+cơ hội việc: 1943
+website khoa: 1944
+công khai thông qua: 1945
+tờ rơi: 1946
+quảng bá: 1947
+tân sinh viên: 1948
+nhập học: 1949
+tổ chức khoa: 1950
+đào tạo khoa: 1951
+sinh viêncũng: 1952
+đảm nhiệm: 1953
+công dân sinh viên: 1954
+lên lớp: 1955
+họcđể: 1956
+sắp xếp: 1957
+đều thể: 1958
+phầntại: 1959
+httpsxeduvn khoa: 1960
+httpsxtmdtxeduvn: 1961
+riêng thể: 1962
+chủ động tiếp cận: 1963
+địa chỉ: 1964
+công việc thể: 1965
+ấn phẩm: 1966
+quảng cáo: 1967
+phụ huynh: 1968
+nhờ: 1969
+rõ rệt: 1970
+từ: 1971
+854: 1972
+3744: 1973
+đa dạng hóa: 1974
+truyền thông như vậy: 1975
+liên quan thể: 1976
+hỗ trợ gv: 1977
+gắn kết: 1978
+nhà sử dụng: 1979
+trường khoa: 1980
+thật sự: 1981
+thói quen: 1982
+truy cập: 1983
+quen: 1984
+năm học sinh viên: 1985
+đồng thời cơ sở: 1986
+niên chế: 1987
+một số nhân tố: 1988
+then chốt: 1989
+trật tự: 1990
+dẫnquy định: 1991
+768: 1992
+15112016: 1993
+952: 1994
+29122016: 1995
+2642019: 1996
+ban hành văn bản: 1997
+17092021: 1998
+nằm: 1999
+131: 2000
+29: 2001
+trong: 2002
+221: 2003
+tổng khối lượng: 2004
+28: 2005
+214: 2006
+313: 2007
+92: 2008
+76: 2009
+84: 2010
+phân bổ khối lượng: 2011
+tương thích: 2012
+triết học: 2013
+lịch sử: 2014
+cộng sản: 2015
+đại cương toán: 2016
+plo1: 2017
+plo2: 2018
+plo3: 2019
+plo6: 2020
+plo10: 2021
+plo11: 2022
+plo12: 2023
+plo13: 2024
+plo14: 2025
+plo16: 2026
+plo17: 2027
+hoạt động tác nghiệp: 2028
+vi mô: 2029
+plo8: 2030
+plo9: 2031
+plo15: 2032
+đươc: 2033
+đi sâu: 2034
+khía cạnh: 2035
+khác biệt đào tạo: 2036
+đắc lực: 2037
+một cách triệt: 2038
+plo4: 2039
+plo5: 2040
+plo7: 2041
+plo18: 2042
+phân bố: 2043
+bắt: 2044
+buộctự: 2045
+chungcơ: 2046
+sởchuyên: 2047
+ngànhtiên quyết: 2048
+hợp lý: 2049
+chọn lựa: 2050
+tính logic: 2051
+chung thái độ: 2052
+giảng lý thuyết: 2053
+học phần ctđt: 2054
+sinh viên trường: 2055
+đối mỗi: 2056
+hệ số: 2057
+lần lượt: 2058
+tiết học: 2059
+phát biểu: 2060
+giảng hiệu quả: 2061
+vi phạm: 2062
+tỷ trọng: 2063
+văn hóa: 2064
+kỳbài: 2065
+bảo vệ: 2066
+thưởng: 2067
+đối bài: 2068
+kỳ phương pháp: 2069
+chủ yếu: 2070
+nhớ: 2071
+khái niệm: 2072
+chắc: 2073
+đám: 2074
+đàm phán: 2075
+thuyết phục: 2076
+sức: 2077
+60: 2078
+loại: 2079
+ôn tập: 2080
+thi viết: 2081
+học phần học: 2082
+đảm bảo tính: 2083
+kế thừa tính: 2084
+hỗ trợ hợp lý: 2085
+tiếp học phần: 2086
+kế thừa: 2087
+giảng đường: 2088
+chủ đề: 2089
+lý giải: 2090
+nhận xét: 2091
+internet: 2092
+trình chiếu: 2093
+tìm tòi: 2094
+khám phá: 2095
+đi đôi: 2096
+hoàn thiện ctdh: 2097
+đảm bảo hợp lý: 2098
+xmột: 2099
+gắn kết sự: 2100
+phân thành: 2101
+73: 2102
+27022017: 2103
+1134: 2104
+clo1: 2105
+clo2: 2106
+nội dụng: 2107
+clo3: 2108
+học phần clo4: 2109
+clo5: 2110
+năng động: 2111
+nhiệt tình: 2112
+bản lĩnh: 2113
+vững vàng: 2114
+nhân bản: 2115
+nhân văn: 2116
+học phần thể hiện: 2117
+tương thích phù hợp: 2118
+công plo3: 2119
+31: 2120
+32: 2121
+bao gồm mạng: 2122
+chính yếu: 2123
+viii: 2124
+vì thế: 2125
+đảm bảo thể: 2126
+s22204: 2127
+tiến độ học: 2128
+bình thường: 2129
+tiến học: 2130
+chậm học: 2131
+mục tiêu yêu cầu: 2132
+trưng: 2133
+học phần thể: 2134
+sách: 2135
+xuất bản: 2136
+một vài: 2137
+đảm bảo module: 2138
+ii: 2139
+v: 2140
+nhất định: 2141
+trưng cụ thể: 2142
+cuốn: 2143
+năng lực kế hoạch: 2144
+rút: 2145
+ngắn: 2146
+phân ctđt: 2147
+liền mạch: 2148
+sư phạm: 2149
+đối chiếu: 2150
+so sánh khoa: 2151
+đối chiếu khoa: 2152
+khác biệt: 2153
+khối lượng kiến thức: 2154
+120: 2155
+tín chỉ giáo dục: 2156
+144: 2157
+133: 2158
+138: 2159
+127: 2160
+tổng hợp ý kiến: 2161
+quản lý khoa: 2162
+vi dự thảo: 2163
+thẩm đinh: 2164
+vii: 2165
+ix: 2166
+quyết: 2167
+mong đợi: 2168
+họcngười: 2169
+phiên bản: 2170
+phép: 2171
+thay vì: 2172
+cố định: 2173
+đại cương thể: 2174
+đảng cộng sản: 2175
+học phần toán: 2176
+cao cấp: 2177
+25: 2178
+bớt: 2179
+xuống: 2180
+lẽ: 2181
+116: 2182
+91: 2183
+đối học phần: 2184
+gia tăng: 2185
+hợp lý logic: 2186
+tham khảo ctđt: 2187
+giáo viên: 2188
+xkt: 2189
+tương thích nội dung: 2190
+gdđh khoa: 2191
+phương châm: 2192
+chủ động năng động: 2193
+cố gắng: 2194
+286: 2195
+bqđ: 2196
+2952013: 2197
+1468: 2198
+đẳng cấp: 2199
+tự chủ đa: 2200
+giáo dục trường: 2201
+đào: 2202
+tận tâm sự: 2203
+hoạt động trường: 2204
+nhu cầu xã hội: 2205
+học phần trường: 2206
+hướng dẫn khoa: 2207
+lí luận: 2208
+mạnh mẽ: 2209
+tư liệu: 2210
+hình ảnh: 2211
+đối cán bộ: 2212
+chuyên viên khoa: 2213
+sứ mạng trường: 2214
+bản thảo: 2215
+đối mục tiêu: 2216
+đóng góp ý kiến thông báo: 2217
+nhập học sinh viên: 2218
+đối đối tác: 2219
+khai giảng: 2220
+kỷ niệm: 2221
+nhà giáo: 2222
+2011: 2223
+video: 2224
+clip: 2225
+nhà trường thành quả: 2226
+phát thanh truyền hình: 2227
+công chúng: 2228
+kỷ yếu: 2229
+thành lập trường: 2230
+sứ mệnh trường: 2231
+biến chuyển: 2232
+isiscopus: 2233
+tác động: 2234
+nckh đoạt: 2235
+giáo dục khoa: 2236
+phù hợp nhất: 2237
+tầm quan trọng: 2238
+cơ sở trường khoa: 2239
+hành tổ chức: 2240
+kỳ gia tăng: 2241
+thấu hiểu: 2242
+ctđt cư: 2243
+nhan nganh: 2244
+hinh: 2245
+thưc: 2246
+kiêm tra: 2247
+va đanh: 2248
+gia cua: 2249
+tưng: 2250
+vi: 2251
+du đề cương: 2252
+chi: 2253
+học khoa: 2254
+tín hiệu: 2255
+thường: 2256
+sổ: 2257
+khảo sát sinh viên: 2258
+395: 2259
+điền phiếu: 2260
+397: 2261
+422: 2262
+437: 2263
+154: 2264
+103134: 2265
+374: 2266
+89109: 2267
+398: 2268
+121150: 2269
+phù hợp đề cương: 2270
+công khai sinh viên: 2271
+dẫn: 2272
+bị động: 2273
+kỳ vọng: 2274
+ra thể: 2275
+giá trị độ: 2276
+tin cậy tính: 2277
+ktđg trường: 2278
+hoàn thiện tiết: 2279
+giảng đầu tiên: 2280
+51: 2281
+giảng mức độ: 2282
+học phần tiết: 2283
+kì thực hiện: 2284
+máy vi tính: 2285
+hình thưc: 2286
+0: 2287
+thi bộ môn: 2288
+thi thể hiện sinh viên: 2289
+thu hoạch: 2290
+độ: 2291
+sơ kết: 2292
+bài kiểm tra: 2293
+kỳ nhà trường: 2294
+bốc thăm: 2295
+giao nhận: 2296
+coi: 2297
+phân công cán bộ: 2298
+thi áp dụng: 2299
+thi bảo đảm: 2300
+thanh kiểm tra: 2301
+bctt kltt: 2302
+tốt nghiệp kì: 2303
+đánh giá cả: 2304
+giảng tham gia: 2305
+học tập kết quả: 2306
+xem lại: 2307
+học phần đơn: 2308
+đáp án: 2309
+phúc khảo: 2310
+trùng gv: 2311
+tin cậy độ: 2312
+ít: 2313
+523502: 2314
+148: 2315
+20182019: 2316
+714757: 2317
+công bằng đối: 2318
+đánh giá kết: 2319
+hình thức thi: 2320
+phát huy hiệu quả: 2321
+phân: 2322
+kết: 2323
+phầnbài tập: 2324
+ban hành áp dụng: 2325
+489: 2326
+25052020: 2327
+thành phần trọng số: 2328
+vì: 2329
+lý do chính đáng: 2330
+giang viên: 2331
+bô sung: 2332
+nhầm lẫn sai sót: 2333
+thư ký: 2334
+công khai thông báo: 2335
+nghỉ: 2336
+tránh: 2337
+bị: 2338
+kết thúc học: 2339
+phân điểm: 2340
+học tập điểm: 2341
+bài thảo: 2342
+học phí: 2343
+đu: 2344
+phụ trách: 2345
+lớp học phần tiết: 2346
+cuối cùng: 2347
+thi trưởng: 2348
+ký: 2349
+xác nhận: 2350
+lân: 2351
+kỳ học sinh viên: 2352
+lực lượng: 2353
+chủ chốt: 2354
+cao trường: 2355
+nói riêng: 2356
+nghiên cứu khoa học: 2357
+bổ nhiệm: 2358
+phân định: 2359
+19: 2360
+gvcc: 2361
+119: 2362
+gvc: 2363
+842: 2364
+1619: 2365
+105: 2366
+219: 2367
+1419: 2368
+736: 2369
+duyệt: 2370
+chức danh: 2371
+2036: 2372
+tham gia giảng dạy: 2373
+09: 2374
+khoa bảng: 2375
+62: 2376
+kế cận: 2377
+hưu: 2378
+cân bằng: 2379
+tuổi: 2380
+ncs: 2381
+sự biến động: 2382
+điều chuyển: 2383
+chức vụ: 2384
+đề nghị trường: 2385
+kế hoạch khoa: 2386
+nhà trường cử: 2387
+đề đảm bảo: 2388
+tối đa năng lực: 2389
+đa số: 2390
+hướng dẫn thực tập: 2391
+khóa luận: 2392
+đầu mối: 2393
+đánh giá tiết: 2394
+giảng gv: 2395
+kịp thời đối: 2396
+sắp: 2397
+tuổi trẻ: 2398
+900: 2399
+1820: 2400
+220: 2401
+trình: 2402
+cán bộ khoa: 2403
+thế hệ: 2404
+giảng dạy quản lý: 2405
+sẵn sàng: 2406
+namnữ: 2407
+phạm vi khoa trường: 2408
+nguy cơ: 2409
+hẫng hụt: 2410
+học hàm: 2411
+chiến lược khoa: 2412
+năng lực thể: 2413
+ngạch: 2414
+nam: 2415
+hồ sơ: 2416
+viênngười: 2417
+82016: 2418
+cơ hữu khoa: 2419
+38: 2420
+0320: 2421
+150: 2422
+1520: 2423
+750: 2424
+720: 2425
+1023: 2426
+20082018: 2427
+định mức: 2428
+270: 2429
+45: 2430
+phúttiết: 2431
+700: 2432
+650: 2433
+600: 2434
+giảng bình quân: 2435
+như vậy thể: 2436
+trực tiếp quản lý: 2437
+khtc: 2438
+hoàn thành công việc: 2439
+phần đấu: 2440
+kết quả thực hiện: 2441
+bình xét: 2442
+cái: 2443
+thích hợp: 2444
+thiếu: 2445
+nhà chuyên môn: 2446
+năm học việc: 2447
+giảng dạy nckh: 2448
+hưởng: 2449
+thu nhập: 2450
+xếp: 2451
+giảng dạy sinh viên: 2452
+cao kinh nghiệm: 2453
+phần nào: 2454
+đề nghị trường phép: 2455
+ký kết hợp tác: 2456
+cao bồi dưỡng: 2457
+yêu cầu trường: 2458
+31102017: 2459
+tâm huyết: 2460
+lâu dài: 2461
+dự tuyển: 2462
+khoa học trình độ: 2463
+đối giảng viên: 2464
+luận văn: 2465
+luận án: 2466
+lý lịch: 2467
+chỉ tiêu: 2468
+tuyển dụng cụ thể: 2469
+ứng viên: 2470
+ngànhchuyên: 2471
+giấy báo: 2472
+trúng tuyển: 2473
+ielts65: 2474
+toefl: 2475
+ibt: 2476
+triển khai thông báo: 2477
+hồ sơ dự tuyển: 2478
+phương tiện: 2479
+đại chúng: 2480
+sơ tuyển: 2481
+yêu cầu tiêu chí tuyển dụng: 2482
+tuyển dụng trường: 2483
+sơ duyệt: 2484
+ngoại hình: 2485
+thi tuyển: 2486
+nhân sự thực tế: 2487
+canh: 2488
+chuyển biến: 2489
+chiều: 2490
+nhà nước bộ: 2491
+chức: 2492
+miễn nhiệm: 2493
+phó trưởng khoa: 2494
+cao cấp phong: 2495
+gspgs đối: 2496
+gspgs: 2497
+cán bộ trường: 2498
+bổ nhiệm bổ nhiệm: 2499
+công chức: 2500
+mạnh dạn: 2501
+cao ctđt: 2502
+khó khăn: 2503
+ptcns: 2504
+phòng ban: 2505
+cấm: 2506
+nhận diện: 2507
+giảng đổi mới: 2508
+quy định chế độ: 2509
+giảng viên trường: 2510
+923: 2511
+1682019: 2512
+thực thi: 2513
+đội ngũ khoa: 2514
+210: 2515
+2352011: 2516
+chuẩn hóa: 2517
+sự cố gắng: 2518
+250: 2519
+520: 2520
+1920: 2521
+950: 2522
+2020100: 2523
+bằng cấp: 2524
+số liệu: 2525
+613: 2526
+sự tích cực: 2527
+ủy quyền: 2528
+kỷ nguyên: 2529
+đăng tạp chí: 2530
+isi: 2531
+scopus: 2532
+614: 2533
+giảng viên khoa: 2534
+615: 2535
+phân loại: 2536
+chuyên môn nghiệp vụ: 2537
+khích lệ: 2538
+đội ngũ giảng viên: 2539
+580: 2540
+1038: 2541
+hiệu trưởng trường: 2542
+đào tạo bồi dưỡng: 2543
+kinh phí: 2544
+góc độ: 2545
+chủ quan: 2546
+ích lợi: 2547
+thực sự tích cực: 2548
+tiếp tục phát huy: 2549
+nhận thức đầy đủ: 2550
+tất yếu: 2551
+đa chiều: 2552
+cập nhật thông tin học tập: 2553
+mới thể: 2554
+ưu tiên: 2555
+bổi dưỡng: 2556
+học việc: 2557
+ngắn hạn: 2558
+khuyến khích tạo: 2559
+chuyên môn cử: 2560
+khóa học: 2561
+109: 2562
+0832017: 2563
+seminar: 2564
+thuyết minh: 2565
+tuyển chọn: 2566
+phù hợp nhu cầu: 2567
+1853: 2568
+28122018: 2569
+cn: 2570
+hỗ trợ phí: 2571
+chi phí: 2572
+hình thức khen thưởng: 2573
+thành công luận án: 2574
+hạn: 2575
+thời hạn xem xét: 2576
+ý nghĩa quan: 2577
+cử: 2578
+dài hạn khoa: 2579
+ctđt cử: 2580
+trườngviện: 2581
+426: 2582
+619: 2583
+04: 2584
+khen: 2585
+thu xếp: 2586
+bản thân thể: 2587
+bao gồm biên: 2588
+soạnbổ sung: 2589
+báobài: 2590
+thực tập kltn: 2591
+sơ đồ: 2592
+61: 2593
+chức trách nhiệm vụ: 2594
+lối: 2595
+sống: 2596
+tốt tất cả: 2597
+tái bản: 2598
+báo công bố: 2599
+620: 2600
+621: 2601
+mạnh trường: 2602
+291: 2603
+739: 2604
+dự thảo: 2605
+rồi: 2606
+dân chủ: 2607
+đối thoại: 2608
+giữ: 2609
+giảng viên thể: 2610
+càng: 2611
+hài lòng đối: 2612
+417: 2613
+hữu hiệu: 2614
+tcns: 2615
+14122020: 2616
+thực hành văn hóa: 2617
+gắn bó: 2618
+đoàn kết: 2619
+tiêu điểm: 2620
+đại học vị thế: 2621
+thương hiệu: 2622
+thân thiện: 2623
+dẫn đầu: 2624
+vô: 2625
+đối đội ngũ: 2626
+nói chung khoa: 2627
+486: 2628
+852019: 2629
+hoạt động khcn: 2630
+bảo hộ: 2631
+tác giả: 2632
+phát minh: 2633
+sáng chế: 2634
+thanh quyết toán: 2635
+qlkh: 2636
+2082018: 2637
+622: 2638
+tiềm lực: 2639
+công tác khoa: 2640
+cao học viên: 2641
+chuyên khảo tham gia: 2642
+quy đổigiờ: 2643
+kết quả thực hiện nghiệm: 2644
+vụ: 2645
+623: 2646
+chủ trì: 2647
+tổng cộng: 2648
+đấu thầu: 2649
+624: 2650
+tăng trưởng: 2651
+vị thế: 2652
+625: 2653
+20172018: 2654
+nỗ lực nghiên cứu: 2655
+626: 2656
+tổ chức thư: 2657
+đồng tổ chức: 2658
+hưởng ứng: 2659
+tương đương: 2660
+hoạt động nckh: 2661
+giám sát cht: 2662
+chủ nhiệm: 2663
+liên ngành: 2664
+đóng góp vai trò: 2665
+khoa học quản lý: 2666
+chỉ số: 2667
+issn: 2668
+doanh nghiệp khoa: 2669
+hoạt động công: 2670
+đồng khoa: 2671
+lái xe: 2672
+chât: 2673
+phân lơn: 2674
+phu: 2675
+thuọc: 2676
+quan h: 2677
+tuong tác: 2678
+giưa: 2679
+đọi: 2680
+ngu: 2681
+thê thưc: 2682
+tôt: 2683
+vu giảng dạy: 2684
+hoc tạp: 2685
+dich: 2686
+vu hô: 2687
+thích đáng: 2688
+truơng khoa: 2689
+kiêm: 2690
+soát: 2691
+thương: 2692
+tiên hành: 2693
+vu hỗ trợ: 2694
+khao sát: 2695
+mưc: 2696
+sư dung: 2697
+vu: 2698
+khăc: 2699
+phuc: 2700
+phát: 2701
+triên: 2702
+hiu: 2703
+qua hon: 2704
+ngu trường: 2705
+giai đoan: 2706
+tâm: 2707
+lưa: 2708
+chon: 2709
+chiên: 2710
+luơc: 2711
+đên: 2712
+17238: 2713
+714: 2714
+123238: 2715
+5168: 2716
+69238: 2717
+2899: 2718
+29238: 2719
+1218: 2720
+71: 2721
+5882: 2722
+mô tả công việc: 2723
+giảng số: 2724
+quỹ: 2725
+20212030: 2726
+ổn định: 2727
+nhân viên phục: 2728
+vụgiảng viên: 2729
+20212025: 2730
+65: 2731
+17: 2732
+vụgv: 2733
+20262030: 2734
+70: 2735
+035: 2736
+vê: 2737
+tuyên dung: 2738
+báo chí: 2739
+ban hành quyết định: 2740
+công bô: 2741
+quy đinh: 2742
+vic: 2743
+quy hoach: 2744
+vin: 2745
+công ngh: 2746
+đáp ưng: 2747
+nhu câu: 2748
+nghiên: 2749
+cưu khoa: 2750
+vu cọng: 2751
+ơ van: 2752
+chưc nang: 2753
+giai quyêt: 2754
+vân: 2755
+cua khoa: 2756
+quan lý: 2757
+bông: 2758
+ngưng: 2759
+thôi: 2760
+canh cáo: 2761
+vu xét: 2762
+câp giây: 2763
+chưng nhạn: 2764
+điêm: 2765
+giai đáp: 2766
+thăc: 2767
+măc: 2768
+băng: 2769
+câp: 2770
+đam: 2771
+đuong: 2772
+đuơc khôi: 2773
+công vic: 2774
+đăc: 2775
+lưc khoa: 2776
+vic tai: 2777
+truyền thông hành chính: 2778
+vu gv: 2779
+vài: 2780
+thwucj tế: 2781
+quản lý số lượng: 2782
+hiện đại hóa trang: 2783
+đội: 2784
+trung cấp: 2785
+đu vê: 2786
+sô: 2787
+lương trình: 2788
+tu: 2789
+liu: 2790
+kip thơi: 2791
+cạp: 2792
+nhạt: 2793
+kê: 2794
+phân loai: 2795
+điêu kin: 2796
+thuạn: 2797
+lơi: 2798
+vic tra: 2799
+cưu tu: 2800
+thoả mãn: 2801
+tài liu: 2802
+học vị: 2803
+thiêt: 2804
+bi hin: 2805
+sơ vạt: 2806
+phuc vu: 2807
+phụ trách trang: 2808
+vệ sinh: 2809
+cô: 2810
+tạp: 2811
+lơp: 2812
+tre: 2813
+vơi nang: 2814
+lưc: 2815
+vưng: 2816
+kha nang: 2817
+tu vân: 2818
+vu hoc: 2819
+thưc hin: 2820
+tuong: 2821
+trợ lý khoa: 2822
+1095: 2823
+tư nam: 2824
+thiết lập: 2825
+chú: 2826
+xây dưng: 2827
+dân chủ công bằng: 2828
+ký dư: 2829
+tuyên: 2830
+phai: 2831
+quy đinh tai: 2832
+điêu: 2833
+22: 2834
+luạt viên: 2835
+quốc tịch: 2836
+cư trú: 2837
+văn bằng chứng chỉ: 2838
+sức khoẻ: 2839
+trái: 2840
+nghi đinh: 2841
+292012: 2842
+nđcp: 2843
+tuyên dung sư: 2844
+dung quan: 2845
+lý viên: 2846
+đu tiêu: 2847
+phâm: 2848
+vu nang: 2849
+yêu: 2850
+vi trí: 2851
+chưc danh: 2852
+nghê: 2853
+tiêu chuân: 2854
+cu thê: 2855
+ký kết hợp đồng: 2856
+ưng cư viên: 2857
+chu truong: 2858
+đương lôi: 2859
+luạt: 2860
+nuơc: 2861
+hiêu biêt: 2862
+co ban: 2863
+hoạc: 2864
+linh vưc: 2865
+pháp luạt: 2866
+vê viên: 2867
+đưc: 2868
+lich sư: 2869
+phát triên: 2870
+vu cua: 2871
+quyên nhim: 2872
+cán bộ viên: 2873
+cán bọ: 2874
+ưng viên: 2875
+ngoai: 2876
+ngư b2: 2877
+đọ sư: 2878
+vuơt: 2879
+đánh nang: 2880
+lưc trình: 2881
+tât: 2882
+ca: 2883
+tuyên chon: 2884
+tuyên dung viên: 2885
+httpwwwxeduvn: 2886
+thông tin đai: 2887
+chúng: 2888
+niêm yêt: 2889
+tai: 2890
+nhạn: 2891
+bât cư ý: 2892
+kiên nào: 2893
+tuyên đuơc: 2894
+trúng: 2895
+tuyên ưng viên: 2896
+thơi gian: 2897
+tạp sư: 2898
+hoàn thành thơi: 2899
+gian: 2900
+đat đuơc: 2901
+se: 2902
+bô: 2903
+ngach: 2904
+đinh: 2905
+ky: 2906
+chât nang: 2907
+bao sư: 2908
+ôn đinh: 2909
+thưa: 2910
+lãnh đao: 2911
+bôi: 2912
+dương rèn: 2913
+thưc tiên: 2914
+lương hiu: 2915
+quyêt: 2916
+đinh sô: 2917
+789: 2918
+tư chưc: 2919
+miên: 2920
+nhim viên: 2921
+đua: 2922
+tình hình nhân sư: 2923
+phô: 2924
+biên công khai: 2925
+biêt: 2926
+nhất trí: 2927
+cao thông qua: 2928
+đối vị trí: 2929
+449: 2930
+khoaphòng: 2931
+4245: 2932
+4285: 2933
+điêu chuyên: 2934
+xác: 2935
+phô biên công khai: 2936
+phôi: 2937
+hơp vơi: 2938
+đon: 2939
+vi chuyên môn: 2940
+tuc: 2941
+đuơc phô: 2942
+ủy: 2943
+hàng đầu: 2944
+hoạt động khoa: 2945
+y z: 2946
+nghiệp vụ chuyên môn: 2947
+kỹ thuật viên: 2948
+bgh: 2949
+đảm bảo tiêu chuẩn: 2950
+2692016: 2951
+bẳng: 2952
+8797: 2953
+705: 2954
+5228: 2955
+cao tỷ lệ: 2956
+tận dụng: 2957
+chuyên: 2958
+viêngiảng viên: 2959
+nhà trường xét: 2960
+đảng ủy: 2961
+ủng hộ: 2962
+cung trường: 2963
+chuyên viên nhân viên: 2964
+chiến sỹ: 2965
+đào tạo cụ thể: 2966
+trải: 2967
+đáp: 2968
+ững: 2969
+đối bộ phận: 2970
+hội trường: 2971
+ứng xử: 2972
+hỗ trợ giảng viên: 2973
+thuê: 2974
+74: 2975
+phù hợp hợp: 2976
+nhân viên thể: 2977
+tích hợp đề xuất: 2978
+238: 2979
+878: 2980
+nhân lực trường: 2981
+kỹ thuật viên tuyển chọn: 2982
+hỗ trợ cử: 2983
+167: 2984
+96: 2985
+tổng kinh phí: 2986
+7793000000: 2987
+đ: 2988
+cụ thể cử: 2989
+xác định rõ ràng: 2990
+75: 2991
+ban đầu: 2992
+định lượng: 2993
+cụ thể nhân viên: 2994
+cụ thể đối: 2995
+sơ sở: 2996
+xây dựng kế hoạch: 2997
+vu giảng viên: 2998
+cá nhân trưởng: 2999
+quản lý phối hợp: 3000
+sự cố: 3001
+trích: 3002
+giám sát nhân viên: 3003
+pháp chế: 3004
+sai phạm: 3005
+vướng mắc: 3006
+kết quả thực thi công việc: 3007
+nổi bật: 3008
+xứng đáng: 3009
+khiêm tốn: 3010
+phụ cấp: 3011
+thâm niên: 3012
+đối công chức: 3013
+đại học thương mại: 3014
+ý nghĩa: 3015
+chi thanh toán: 3016
+cường độ: 3017
+tiền: 3018
+quy chế tài chính: 3019
+tạm ứng: 3020
+ước thanh toán: 3021
+cbql: 3022
+chuyên viện: 3023
+72: 3024
+phủtheo: 3025
+đối kết quả: 3026
+cơ chế tạo: 3027
+vượt bậc: 3028
+đội ngũ cố: 3029
+hồ sơ tuyển: 3030
+57: 3031
+tuyển sinh khoa: 3032
+phổ thông: 3033
+tuyển ngưỡng: 3034
+khoa viện: 3035
+quy chế bộ: 3036
+ngành hàng: 3037
+vậy thể: 3038
+thí sinh thời điểm: 3039
+httpthituyensinhvn: 3040
+httpsnghiepvuthituyensinhvn: 3041
+httpxeduvn nhà trường: 3042
+facebook khoa: 3043
+tổng cục: 3044
+nghề nghiệp báo: 3045
+hải phòng: 3046
+thanh hóa: 3047
+nghệ an: 3048
+trung tâm học: 3049
+mãi: 3050
+sở thích: 3051
+tiếp tục tham gia: 3052
+bách khoa: 3053
+nữa: 3054
+cầu nối: 3055
+sử dụng mạng: 3056
+facebook: 3057
+thành đạt: 3058
+ngôi: 3059
+81: 3060
+xu hướng: 3061
+tuyển nv1: 3062
+cạnh tranh: 3063
+chứng tỏ: 3064
+hút: 3065
+đối thí sinh: 3066
+ngày một: 3067
+duy trì điểm chuẩn: 3068
+khoảng cách: 3069
+top: 3070
+điểm chuẩn: 3071
+2630: 3072
+2654: 3073
+đứng: 3074
+173: 3075
+171: 3076
+263: 3077
+274: 3078
+chênh: 3079
+145: 3080
+bước tiến: 3081
+chỗ: 3082
+nhất trường: 3083
+tiệm: 3084
+cận: 3085
+giao ban: 3086
+tư vấn tuyển sinh: 3087
+tuy vậy: 3088
+trúng tuyển bình quân: 3089
+chủ yếu mạng: 3090
+gây: 3091
+đào tạo trường: 3092
+82: 3093
+thời điểm xét: 3094
+thimôn: 3095
+nào: 3096
+ngưỡng: 3097
+tuyển sinh bộ: 3098
+tổng điểm: 3099
+gdđt trường: 3100
+cao thấp: 3101
+phụ xét: 3102
+a00 toán: 3103
+vật lý: 3104
+hoá học: 3105
+a01 toán: 3106
+d01 toán: 3107
+ngữ văn: 3108
+tư bổ sung: 3109
+toán hóa học: 3110
+điểm cao: 3111
+xét nv1: 3112
+giỏi: 3113
+toàn cầu hoá: 3114
+toàn cầu: 3115
+đơn giản: 3116
+khắt khe: 3117
+tiền đề: 3118
+hứa: 3119
+hn: 3120
+tân cử nhân: 3121
+truyền thông khoa: 3122
+tổ hợp xét: 3123
+tuyển môn: 3124
+tuyển ngày càng: 3125
+012014: 3126
+2412014: 3127
+979: 3128
+tổng chỉ tiêu thể: 3129
+gdđt nhà trường: 3130
+hạ: 3131
+gx: 3132
+giảm thiểu: 3133
+tình trạng: 3134
+ảo: 3135
+tự chủ trường: 3136
+thị trường lao động: 3137
+phương hướng: 3138
+bỏ: 3139
+chênh lệch điểm chuẩn: 3140
+dấu hiệu: 3141
+xu thế nhu cầu: 3142
+bcn khoa: 3143
+tất yếu đối: 3144
+doanh nghiệpdn: 3145
+nhu cầu thực tế: 3146
+cao sinh viên: 3147
+9015: 3148
+triệu: 3149
+đồngtháng: 3150
+thăng tiến: 3151
+yêu thích: 3152
+nv1: 3153
+83: 3154
+học chế: 3155
+lao động đối: 3156
+học lực: 3157
+tối: 3158
+thiều: 3159
+85: 3160
+chứng chỉ giáo dục: 3161
+lưu giữ: 3162
+hòng: 3163
+tình hình học tập: 3164
+cơ dữ liệu: 3165
+tiến bộ học tập: 3166
+buộc: 3167
+thôi học: 3168
+so mt: 3169
+kém: 3170
+động viên: 3171
+chấn chỉnh: 3172
+tập trung học tập: 3173
+hp: 3174
+bản thân sinh viên: 3175
+cao ngày càng: 3176
+trở lại: 3177
+kỳ hè: 3178
+hẳn: 3179
+thậm chí: 3180
+k52: 3181
+tính năng động: 3182
+nhiệt tình khả năng: 3183
+trừ: 3184
+yếu kém: 3185
+qlđt: 3186
+lý do: 3187
+bcn: 3188
+giám sát khoa: 3189
+kịp thời sự: 3190
+sàng lọc: 3191
+tính năng: 3192
+khả năng việc: 3193
+huy động: 3194
+lành mạnh sinh động: 3195
+đón tiếp: 3196
+nhập học khoa: 3197
+giới thiệu tổng quan: 3198
+địa chỉ khoa: 3199
+lưu ý: 3200
+đại diện: 3201
+tổ chức đoàn: 3202
+thăm: 3203
+nhà trường thể: 3204
+kịp thời hiệu quả: 3205
+khoa học sinh hoạt: 3206
+đhcq: 3207
+miễn giảm: 3208
+tất cả thể hiện: 3209
+học kì: 3210
+tạm: 3211
+dừng: 3212
+bảo lưu: 3213
+quá: 3214
+thực tập thực tế: 3215
+đăng ký đề tài: 3216
+tư vấn sinh: 3217
+liên lạc: 3218
+thân thiết: 3219
+tốt nghiệp khoa: 3220
+chú trọng quan tâm: 3221
+đối sinh: 3222
+đề tài nghiên cứu: 3223
+spss: 3224
+hoạt động tình nguyện: 3225
+hiến: 3226
+máu: 3227
+nhân đạo: 3228
+giải thể thao: 3229
+bóng đá: 3230
+cv: 3231
+phỏng vấn: 3232
+vay: 3233
+vốn: 3234
+tín dụng: 3235
+nhà trường tổ chức: 3236
+việc làm khoa: 3237
+tập trung thực tập: 3238
+x thể: 3239
+cao thậm chí: 3240
+nỗ lực cố gắng: 3241
+đáng: 3242
+tự ti: 3243
+tậpbảng: 3244
+sân chơi: 3245
+bổ ích: 3246
+sinh viên kết hợp: 3247
+giải trí thông qua: 3248
+lạc bộ khoa: 3249
+eplus hội: 3250
+tình nguyện: 3251
+vis khoa: 3252
+liên chi đoàn: 3253
+hát: 3254
+sinh viên thương mại: 3255
+nhảy: 3256
+dân vũ nhịp điệu: 3257
+xanh: 3258
+thi đấu thể thao: 3259
+cầu lông: 3260
+đh: 3261
+phụ nữ: 3262
+bổ ích sinh: 3263
+87: 3264
+9120: 3265
+9670: 3266
+9700: 3267
+hỗ trợ thực hiện: 3268
+csvc trang: 3269
+tinh thần tích cực: 3270
+giao liên chi đoàn khoa: 3271
+clb: 3272
+hỗ sinh viên: 3273
+kiến tập: 3274
+hè: 3275
+tâm lý: 3276
+cảnh quan: 3277
+thoải mái cá nhân: 3278
+văn hoá học đường: 3279
+nề nếp: 3280
+kỉ cương: 3281
+môi trường học tập: 3282
+lành mạnh: 3283
+gia đình: 3284
+xử lý trách nhiệm: 3285
+trách nhiệm quyền lợi: 3286
+lưu học sinh: 3287
+kiểm kê: 3288
+tài sản: 3289
+bảo dưỡng: 3290
+định kỳ trang: 3291
+thông suốt: 3292
+ảnh hưởng tiến độ: 3293
+trường thành: 3294
+đại học đa: 3295
+đảng uỷ ban: 3296
+khai phóng: 3297
+thoải mái: 3298
+văn thể trường: 3299
+thể lực: 3300
+trí lực: 3301
+thi đấu: 3302
+sân: 3303
+nữ sinh viên: 3304
+h1: 3305
+cổ vũ: 3306
+tích cự: 3307
+thành đoàn: 3308
+phát động: 3309
+chào tân sinh viên: 3310
+xs: 3311
+nghệ thuật: 3312
+phong cách: 3313
+đoàn viên: 3314
+bộc lộ: 3315
+iss: 3316
+cải tạo: 3317
+bóng rổ: 3318
+nhà trường học tập: 3319
+eplus: 3320
+vis hội: 3321
+lý thú: 3322
+mis and: 3323
+more: 3324
+tài năng: 3325
+biên giới: 3326
+tham gia đông đảo: 3327
+khóa sinh: 3328
+chuyển động: 3329
+workshop: 3330
+xktx: 3331
+hấp dẫn: 3332
+bạn: 3333
+thoải mái phát triển: 3334
+động cơ năng động: 3335
+sáp nhập khoa: 3336
+hòa nhập: 3337
+đời sống: 3338
+atm: 3339
+20162017: 3340
+mở cửa: 3341
+trưa: 3342
+nghỉ ngơi: 3343
+bãi: 3344
+chơi: 3345
+sân nhà: 3346
+t cd: 3347
+sinh hoạt đoàn: 3348
+tầng: 3349
+nhà t: 3350
+bàn: 3351
+ghế: 3352
+chuyên môn học thuật: 3353
+âm thanh: 3354
+ánh sáng: 3355
+h2: 3356
+h3: 3357
+ngồi: 3358
+tường: 3359
+sạch sẽ: 3360
+khang trang: 3361
+đảm bảo vệ sinh: 3362
+ăn uống: 3363
+diện tích: 3364
+m2: 3365
+800900: 3366
+1000: 3367
+trọ: 3368
+ktx: 3369
+mỹ đình: 3370
+khám: 3371
+nhập trường: 3372
+142014: 3373
+ttbyt: 3374
+0652013: 3375
+20172021: 3376
+giấy phép: 3377
+điều kiện trang: 3378
+khỏe: 3379
+bệnh: 3380
+mãn tính: 3381
+tham gia bảo hiểm: 3382
+test: 3383
+heroin: 3384
+phun: 3385
+thuốc: 3386
+phòng dịch: 3387
+thực phẩm: 3388
+căng tin: 3389
+khuôn viên: 3390
+cây xanh: 3391
+đp: 3392
+không gian: 3393
+thoáng: 3394
+mát tràn ngập: 3395
+sắc: 3396
+tiếp đón: 3397
+bố trí khoa: 3398
+301: 3399
+toàn khoa: 3400
+liên chi hội: 3401
+82018: 3402
+sạch: 3403
+đảm bảo an ninh: 3404
+phân bổ đồng đều: 3405
+quá tải: 3406
+xung quanh: 3407
+sáng tạo sự: 3408
+thoải mái tâm trí: 3409
+thay đổi đời sống kinh tế: 3410
+gia tăng số lượng: 3411
+đồng bộ giải quyết: 3412
+chuyên môn hóa: 3413
+chiến lược phát huy: 3414
+tồn đọng: 3415
+lớn mạnh khoa: 3416
+vật chất trang: 3417
+79: 3418
+hồ tùng: 3419
+mậu: 3420
+quận: 3421
+cầu: 3422
+văn phòng khoa: 3423
+máy in: 3424
+bàn ghế: 3425
+tủ: 3426
+chương trình khoa: 3427
+cụ thể trường: 3428
+g: 3429
+sàn: 3430
+32231: 3431
+chứa: 3432
+sinh viênsv: 3433
+sức chứa: 3434
+máyphòng: 3435
+đa năng: 3436
+dây: 3437
+công suất: 3438
+màn: 3439
+chiếu: 3440
+lắp đt: 3441
+giảng đường trường: 3442
+chờ: 3443
+sách báo: 3444
+máy chiếu mạng: 3445
+tòa: 3446
+trang âm: 3447
+trang thiết bị: 3448
+máy móc trang: 3449
+hư hỏng: 3450
+sửa chữa: 3451
+hỏng: 3452
+mua sắm: 3453
+cbvc: 3454
+thấycsvc: 3455
+nghe nhìn: 3456
+tiện ích: 3457
+hệ thống thiết bị: 3458
+riêng biệt: 3459
+thời tiết: 3460
+ccác: 3461
+hệ thống trang: 3462
+gv sinh: 3463
+chức năng thể: 3464
+thụ hưởng: 3465
+thư viện trường: 3466
+đơn vị cung cấp: 3467
+viênsv khoa: 3468
+tổng diện tích: 3469
+2600: 3470
+102018: 3471
+nhà p: 3472
+bạn đọc: 3473
+đa phương tiện: 3474
+mượn: 3475
+hợp lý sự: 3476
+svsinh viên: 3477
+đa chức năng: 3478
+kiên thuận lợi: 3479
+hạ tầng: 3480
+máy chủ: 3481
+scan: 3482
+đa vật thể: 3483
+đầy đủ trang: 3484
+thiết bị mát: 3485
+quạt cây: 3486
+ilib: 3487
+2002: 3488
+2003: 3489
+giao diện: 3490
+tự động hoá: 3491
+biên mục: 3492
+dlib: 3493
+tạo lập: 3494
+sưu tập: 3495
+thư viện số: 3496
+nội sinh: 3497
+phủ sóng: 3498
+kết nối mạng: 3499
+truy cập mạng: 3500
+800: 3501
+đầu sách: 3502
+160: 3503
+72021: 3504
+36668: 3505
+139865: 3506
+chuyên khảo: 3507
+luận án luận văn: 3508
+1570: 3509
+cd: 3510
+rom: 3511
+ebook: 3512
+nxb: 3513
+igroup: 3514
+proquets: 3515
+central: 3516
+phục vụ khoa: 3517
+553: 3518
+24413: 3519
+264: 3520
+11996: 3521
+học phần cập nhật: 3522
+dịch: 3523
+phần mềm hóa: 3524
+std: 3525
+toàn văn: 3526
+1987: 3527
+kqnc: 3528
+llà: 3529
+thư mục: 3530
+vềể: 3531
+giao nộp: 3532
+11000: 3533
+proquest: 3534
+central bộ: 3535
+19000: 3536
+13000: 3537
+lĩnh vực chủ đề: 3538
+y học: 3539
+credo: 3540
+referencel: 3541
+reference: 3542
+đa lĩnh vực: 3543
+200000: 3544
+tệp: 3545
+hóa: 3546
+40000: 3547
+tranh ảnh: 3548
+90000: 3549
+bản đồ: 3550
+địa danh: 3551
+địa lý: 3552
+fulbright: 3553
+tiền tệ: 3554
+hoạt động nhân: 3555
+bạn đọc trường: 3556
+văn hóa đọc: 3557
+tổng lượt: 3558
+241278: 3559
+lượt: 3560
+311140: 3561
+9169: 3562
+1834: 3563
+lượtnăm: 3564
+15785: 3565
+3157: 3566
+số lượng bạn đọc: 3567
+2299: 3568
+460: 3569
+3801: 3570
+760: 3571
+sử dụngnsd: 3572
+763: 3573
+765: 3574
+480: 3575
+khiếu nại bạn đọc: 3576
+p: 3577
+6000: 3578
+đầu tư trang bị: 3579
+hiện đại hạ tầng: 3580
+cấu hình: 3581
+đường: 3582
+truyền: 3583
+tốc độ: 3584
+củathư viện: 3585
+opac: 3586
+đôi khi: 3587
+xảy: 3588
+lỗi: 3589
+sử dụng truy cập: 3590
+quản lý tài nguyên: 3591
+93: 3592
+thí nghiệm: 3593
+thực hành trang: 3594
+phục vụ việc: 3595
+54: 3596
+m2phòng: 3597
+tínhphòng: 3598
+viênphòngca: 3599
+sắp xếp thời: 3600
+biểu học: 3601
+thi trắc nghiệm: 3602
+thi phù hợp: 3603
+chồng chéo: 3604
+nội qui: 3605
+công năng: 3606
+tần suất: 3607
+sử dụng trang: 3608
+khuôn viên trường: 3609
+di chuyển: 3610
+duy tu: 3611
+432: 3612
+phương tiện trang: 3613
+427: 3614
+công cụ trang: 3615
+chú trọng cải tiến: 3616
+góp phần quan trọng: 3617
+cao điểm: 3618
+ồn: 3619
+tham mưu: 3620
+csvc thể: 3621
+cửa: 3622
+gỗ: 3623
+cửa kính: 3624
+cách âm: 3625
+ảnh: 3626
+94: 3627
+trung tâm trường: 3628
+phôtô: 3629
+tổng đài: 3630
+firewall: 3631
+chạy: 3632
+lưu dữ liệu: 3633
+dự phòng: 3634
+thiết bị mạng: 3635
+197: 3636
+máy1: 3637
+trường thành lập: 3638
+tay nghề: 3639
+leased: 3640
+line: 3641
+tổng dung lượng: 3642
+mb: 3643
+nội địa: 3644
+xách: 3645
+tay: 3646
+tự phát triển: 3647
+website trường: 3648
+fanpage trường: 3649
+giãn: 3650
+xa tuy nhiên: 3651
+online: 3652
+ước tính: 3653
+15000: 3654
+msteams: 3655
+meeting: 3656
+giảng dạy học tập trao đổi: 3657
+học gv: 3658
+cập nhật liên tục: 3659
+giấy tờ: 3660
+thông báo sinh: 3661
+fanpage khoa: 3662
+tiện lợi: 3663
+triển khai giảng dạy học tập: 3664
+đem: 3665
+đồng bộ hiện đại: 3666
+quản lý chú trọng: 3667
+phục vụ chuyên ngành: 3668
+triển khai giảng: 3669
+2023: 3670
+nhà trường phép: 3671
+khuyết tật: 3672
+ccvccông chức: 3673
+sát sao: 3674
+công chức viên: 3675
+chứcccvc: 3676
+vệ sinh học đường: 3677
+bục: 3678
+thông thoáng: 3679
+ấm: 3680
+itc: 3681
+gia hạn: 3682
+ngoại cảnh: 3683
+khu vực trường: 3684
+nam nữ: 3685
+dọn: 3686
+dãy: 3687
+một trăm: 3688
+ký túc: 3689
+lào: 3690
+đảm bảo sạch sẽ: 3691
+mát: 3692
+bình: 3693
+nóng lạnh: 3694
+hành lang: 3695
+cầu thang: 3696
+lau: 3697
+phản ảnh: 3698
+ngày sinh viên: 3699
+khám chữa: 3700
+cấp phát: 3701
+nước máy: 3702
+xét nghiệm: 3703
+bệnh tật: 3704
+phương diện: 3705
+vi sinh: 3706
+uống: 3707
+cây nước: 3708
+cống: 3709
+thoát: 3710
+kín: 3711
+ứ đọng: 3712
+công cộng: 3713
+thùng: 3714
+rác: 3715
+nắp: 3716
+đậy: 3717
+diệt: 3718
+muỗi: 3719
+côn trùng: 3720
+giao mùa: 3721
+sốt xuất huyết: 3722
+sửa chữa quy hoạch: 3723
+nhà chứa: 3724
+tạm thời: 3725
+rác thải: 3726
+sảnh: 3727
+a ký túc xá: 3728
+đảm bảo thực hiện: 3729
+chứng nhận: 3730
+vsattp: 3731
+oresol: 3732
+biseptol: 3733
+paracetamol: 3734
+cloraminb: 3735
+nacl: 3736
+ứng phó: 3737
+đột xuất: 3738
+sâu rộng: 3739
+vừa qua: 3740
+tiêm: 3741
+lao động trường: 3742
+cbgv: 3743
+k: 3744
+chỉ dẫn: 3745
+đối ccvccông: 3746
+bệnh viện: 3747
+cbnv: 3748
+sức khỏe tiêm: 3749
+mũi: 3750
+ban ngành: 3751
+sơ cấp cứu: 3752
+bác sỹ: 3753
+điều dưỡng: 3754
+y sĩ: 3755
+tranh: 3756
+trực: 3757
+ttrường: 3758
+hồ sơ sinh viên: 3759
+sức khỏe byt: 3760
+sức khỏe yếu: 3761
+điện: 3762
+k51: 3763
+điều trị: 3764
+học đường trường: 3765
+2424: 3766
+phòng ngừa: 3767
+tính mạng: 3768
+công nhân viên: 3769
+đội trưởng: 3770
+vệ sỹ: 3771
+cắt cử: 3772
+xe: 3773
+làn đường: 3774
+vứt: 3775
+bừa bãi: 3776
+hái: 3777
+hoa: 3778
+bẻ: 3779
+cành: 3780
+lễ: 3781
+tuyệt đối: 3782
+cháy: 3783
+chữa cháy: 3784
+pccc: 3785
+ccũng: 3786
+chữa: 3787
+cháypccc: 3788
+pcccphòng: 3789
+khií: 3790
+xẩy nổ: 3791
+dự trù: 3792
+khoản: 3793
+mua sắm sửa chữa: 3794
+nâng cấp trang: 3795
+thường xuyên cử: 3796
+trường cử: 3797
+phân công chỉ đạo: 3798
+đúng mức: 3799
+xẩy: 3800
+ccvc: 3801
+cụ thể theo: 3802
+an tâm tin tưởng: 3803
+cởi mở: 3804
+thân tình: 3805
+bởi vì: 3806
+vận động: 3807
+chô: 3808
+ơ: 3809
+vu sinh viên: 3810
+din: 3811
+vê bao: 3812
+khoe: 3813
+khai: 3814
+tiêu: 3815
+nọi dung: 3816
+đinh sư: 3817
+tôn tai: 3818
+giáo duc: 3819
+cua mọt: 3820
+co sơ: 3821
+thê trơ: 3822
+nguôn: 3823
+nhân lưc: 3824
+trung tâm nghiên: 3825
+nang: 3826
+vưc: 3827
+quôc tê: 3828
+vu quan: 3829
+lương giáo: 3830
+duc: 3831
+găn: 3832
+liên vơi: 3833
+cai tiên: 3834
+ky nang thái: 3835
+co họi: 3836
+tạp chât: 3837
+vơi khoa: 3838
+chuong trình: 3839
+chuẩn đầu ra: 3840
+cua bộ: 3841
+ky đánh giá: 3842
+nhân: 3843
+thi truơng: 3844
+lao đọng: 3845
+phuong pháp: 3846
+đánh giá kêt: 3847
+đánh giá thương: 3848
+tuong thích: 3849
+phù hơp: 3850
+chât trang: 3851
+bi dich: 3852
+trơ thương: 3853
+đuơc sư dung: 3854
+hoc duy trì: 3855
+co chê: 3856
+phan hôi tư: 3857
+cung nhu: 3858
+cung: 3859
+nhu đam: 3860
+bao tính: 3861
+cạp nhạt: 3862
+101: 3863
+điều luật: 3864
+172021: 3865
+ttbgdđt: 3866
+1699: 3867
+1041: 3868
+của: 3869
+ctđtctdh: 3870
+53: 3871
+chính qui: 3872
+25212019: 3873
+pháp lý: 3874
+mềm tùy: 3875
+đối từng: 3876
+thu thập thông tin: 3877
+tham luận: 3878
+thực tập sinh viên: 3879
+đối cựu: 3880
+đề xây dựng: 3881
+lồng ghép: 3882
+xác định chuẩn: 3883
+trước đây: 3884
+chứa đựng: 3885
+hợp lí: 3886
+nhu cầu sinh viên: 3887
+102: 3888
+tóm lược: 3889
+thiết thực sự: 3890
+nhất quán: 3891
+nét: 3892
+cao giới: 3893
+tiêu thức chí: 3894
+chương trình đạo: 3895
+liên thông: 3896
+dọc: 3897
+ngang: 3898
+quý báu: 3899
+đa dạng bảng: 3900
+học tập họp: 3901
+mức độ phù hợp: 3902
+thực tiễn hành nghề: 3903
+mạnh khoa: 3904
+kế hoạch định kỳ: 3905
+sách trắng: 3906
+tuân: 3907
+tương tự: 3908
+thực hiện tại khoa: 3909
+khđt: 3910
+chỉ đạo nhà trường: 3911
+đối khoa: 3912
+điều chỉnh trưởng: 3913
+hoàn tiện: 3914
+chất lượng đào tạo: 3915
+ktđbclgd: 3916
+kết hợp khoa: 3917
+cập nhật số lượng: 3918
+phù hợp thời gian: 3919
+quan: 3920
+khả thi thể: 3921
+đàạo: 3922
+ý kiến giảng viên: 3923
+đẩy mạnh triển khai: 3924
+khảo sát trực tuyến: 3925
+facebook zalo: 3926
+103: 3927
+dạy học việc: 3928
+phương pháp quy trình: 3929
+mấu chốt: 3930
+dạy học giảng viên: 3931
+hàng kì: 3932
+ý: 3933
+biểu chính xác: 3934
+thời lượng: 3935
+dự giờ: 3936
+giảng giảng viên: 3937
+chính quyền: 3938
+luân phiên: 3939
+giảng đối: 3940
+tập sự: 3941
+thử: 3942
+giáo viên khoa: 3943
+kể cả: 3944
+giảng dạy lý thuyết: 3945
+đn: 3946
+phó bộ môn: 3947
+ban hành khoa: 3948
+năm1: 3949
+dạy học chủ động: 3950
+xen kẽ: 3951
+trò chơi: 3952
+doc: 3953
+hứng thú: 3954
+đánh giá sinh: 3955
+kỳ cvht: 3956
+quán triệt sinh: 3957
+báo cáo thực tế: 3958
+tốt nghiệp báo cáo: 3959
+vấn đề khoa: 3960
+hủy: 3961
+cht chẽ: 3962
+tổng hợp đề án: 3963
+dấu: 3964
+xác nhận trùng: 3965
+giảng dạy trực tuyến: 3966
+kế hoạch thanh: 3967
+kiểm tra đối: 3968
+giảng thực hiện: 3969
+đối một số học phần: 3970
+ngẫu nhiên: 3971
+giảng thống nhất: 3972
+tổ chức xã hội trường: 3973
+xã hội trường khoa: 3974
+nckh khoa: 3975
+257: 3976
+download tải: 3977
+nckh công bố: 3978
+đối riêng: 3979
+chuyên khảo ctđt: 3980
+nội dung học thuật: 3981
+quyển: 3982
+và: 3983
+viên chức khoa: 3984
+hội thảo khoa: 3985
+công trình nghiên cứu: 3986
+mở rộng liên quan: 3987
+minh họa: 3988
+đó thể: 3989
+hữu ích: 3990
+thực hiện thể: 3991
+khoa học sinh viên khoa: 3992
+20162020: 3993
+ý tưởng: 3994
+đề tài tính: 3995
+sinh viên học: 3996
+nckh thể: 3997
+tham gia học: 3998
+giúp ích: 3999
+tự hào: 4000
+kế hoạch định hướng: 4001
+qui mô: 4002
+hỗ trợ giảng dạy học tập: 4003
+trưng cầu: 4004
+hoạt độngdịch: 4005
+lý thuyết thực hành: 4006
+nghỉ hè: 4007
+chuyên bảo dưỡng: 4008
+sữa: 4009
+chữa trang: 4010
+máy lạnh: 4011
+quạt trần: 4012
+quạt điện: 4013
+h: 4014
+chất lượng trang: 4015
+thỏa mãn: 4016
+nhà cung cấp: 4017
+cung cấp dịch vụ: 4018
+kí túc xá: 4019
+ít nhiều: 4020
+cảm nhận: 4021
+phát triển trường: 4022
+lợi ích: 4023
+đối gv: 4024
+viênsv nhà trường: 4025
+nsd: 4026
+tiện nghi: 4027
+giải khát: 4028
+bếp: 4029
+ăn: 4030
+kí túc: 4031
+nhà trường tăng cường: 4032
+cán bộ y tế: 4033
+can thiệp: 4034
+đồng thời thể: 4035
+nhắc nhở: 4036
+đn lịch: 4037
+đón nhận: 4038
+tham gia tư vấn: 4039
+đến: 4040
+đôn đốc: 4041
+hoàn cảnh: 4042
+khắn: 4043
+quy chế tiếp cận: 4044
+nhất bộ: 4045
+đánh giá phản hồi: 4046
+ccông tác: 4047
+106: 4048
+tmtcttr: 4049
+23: 4050
+2007: 4051
+tham gia phòng: 4052
+kinh nghiệm cụ thể: 4053
+tiên tục: 4054
+dữ liệu khoa: 4055
+csdl sinh viên: 4056
+liên hệ sinh viên: 4057
+xây dựng khoa: 4058
+clđt: 4059
+gợi ý: 4060
+phản hồi thực hiện: 4061
+góp ý kiến: 4062
+gvnhà: 4063
+dụngsinh viên: 4064
+nhà khoa: 4065
+họcgvnhà: 4066
+thang đo: 4067
+lựa: 4068
+chọntheo: 4069
+word: 4070
+chuyển thể: 4071
+docs: 4072
+link: 4073
+excel: 4074
+sơ bộ: 4075
+bao nhiêu: 4076
+file: 4077
+khảo sát khoa: 4078
+đối chiếu so sánh: 4079
+thực hiện khoa: 4080
+sheet: 4081
+năm học khoa: 4082
+khối lượng kiến: 4083
+thực thực tế: 4084
+tctín: 4085
+khảo sát cựu: 4086
+hài hòa: 4087
+chuyển hướng: 4088
+khảo thí nhà trường: 4089
+đánh giá như: 4090
+báo cáo thống kê: 4091
+liên hệ thực tiễn: 4092
+kết hợp bộ: 4093
+tứ mở rộng: 4094
+hoạt động hiệu quả: 4095
+lợi ích tính: 4096
+thầycô: 4097
+thầy cô: 4098
+lãnh đạo khoa: 4099
+kế hợp: 4100
+phốisự: 4101
+phối hợp kết hợp: 4102
+banbộ phận: 4103
+hhoạt động: 4104
+khảo sát định kỳ: 4105
+hệ thống phối: 4106
+hợpsự phối hợp: 4107
+thực chất: 4108
+đầu vào khoa: 4109
+điểm cao kỳ: 4110
+thi tuyển sinh: 4111
+đánh giá giám sát: 4112
+thực hiện giám sát: 4113
+kết nối cht: 4114
+thu thập phân tích sự: 4115
+111: 4116
+xác lập: 4117
+biểu học tập: 4118
+đầu mối tổng hợp: 4119
+số liệu khoa: 4120
+như thể kịp thời: 4121
+liên tiếp: 4122
+vi phạm quy chế: 4123
+hộ: 4124
+lùi: 4125
+địa phương: 4126
+hộ khẩu: 4127
+thường trú: 4128
+tổng hợp số liệu: 4129
+113: 4130
+tương đồng: 4131
+biểu đồ: 4132
+tập trung cao: 4133
+tuần khoa: 4134
+nợ: 4135
+tổng kết khoa: 4136
+bàn bạc: 4137
+đồng bộ hóa: 4138
+112: 4139
+2006: 4140
+giao khoa: 4141
+nghệp: 4142
+tin học sinh viên: 4143
+k54: 4144
+thi chứng chỉ: 4145
+trường học phần: 4146
+123: 4147
+thì thể: 4148
+học kỳ hè: 4149
+còn: 4150
+tự nguyện: 4151
+tăng tiến độ: 4152
+kỳ xét: 4153
+sinh viên kỳ: 4154
+ngoài ra thể: 4155
+như không: 4156
+truy cứu: 4157
+hình sự: 4158
+vi phạm pháp luật: 4159
+đình chỉ: 4160
+chung tích: 4161
+lũy: 4162
+115: 4163
+đào tạo thể: 4164
+trước sau: 4165
+linh động: 4166
+mục đích tạo: 4167
+hề: 4168
+khả năng phối hợp: 4169
+nhữưng: 4170
+thông tin mã: 4171
+cmndcccd: 4172
+thường xuyên tham gia: 4173
+quan doanh nghiệp: 4174
+ưu thế cạnh tranh: 4175
+9116: 4176
+9701: 4177
+thành tựu: 4178
+cao ưu thế: 4179
+bảng số liệu: 4180
+tư nhân: 4181
+svtn: 4182
+trên dưới: 4183
+sinh viên tốt nghiệp: 4184
+nó: 4185
+trọng dụng: 4186
+nghiệpsvtn: 4187
+phối hợp cht: 4188
+liên lạc cựu: 4189
+xây dựng trang: 4190
+wwebsite: 4191
+diễn đàn: 4192
+tương lai: 4193
+114: 4194
+bước đầu: 4195
+thứ hai: 4196
+thực hiện thông báo: 4197
+đề tài hưởng: 4198
+chi tiêu: 4199
+con số: 4200
+gấp: 4201
+1111: 4202
+1112: 4203
+biện pháp đột phá: 4204
+cao loại hình: 4205
+phù hợp đề xuất: 4206
+học động: 4207
+pktđbclgd: 4208
+phân công chức năng: 4209
+googledoc: 4210
+ktđbcl: 4211
+email mạng: 4212
+thông tin khoa: 4213
+giảng định mức: 4214
+hoạt động chuyên môn: 4215
+xã hội đoàn thể: 4216
+3836: 4217
+4371: 4218
+4225: 4219
+4202: 4220
+phần lớn cựu: 4221
+cao khả: 4222
+năngnăng lực: 4223
+3967: 4224
+4343: 4225
+đánh: 4226
+4324: 4227
+4258: 4228
+đồng nghiệp: 4229
+4338: 4230
+nlđ: 4231
+cựu sinh: 4232
+chấp nhận: 4233
+nn: 4234
+ngoại ngữ tin học: 4235
+khảo sát ý kiến: 4236
+ý kiến giải đáp: 4237
+thu nhận: 4238
+thông tin phản hồi: 4239
+dịch chuyển ngành nghề: 4240
+tuy nhiên thể: 4241
+hạn chế khoa: 4242
+trang bị sinh viên: 4243
+thể hiện tính: 4244
+tkđg: 4245
+xhiện: 4246
+012020: 4247
+trường uy tín: 4248
+thông tin sử dụng: 4249
+đồng thời khoa: 4250
+kỳ sinh viên: 4251
+tự học sinh viên: 4252
+tư: 4253
+zalovới: 4254
+gd đt: 4255
+thông tin ký túc xá: 4256
+bộ môn chuyên môn: 4257
+hoàn hiện: 4258
+ccđt: 4259
+20222023: 4260
+vẽ: 4261
+bảng biểu: 4262
+00: 4263
+đánh dấu: 4264
+ô: 4265
+cột: 4266
+hiện hành bộ: 4267
+tskh: 4268
+giới tính độ: 4269
+xátổng: 4270
+nhánh: 4271
+tỷ số: 4272
+1020: 4273
+050: 4274
+doanh thu: 4275
+đăng toàn văn: 4276
+tuyển tập: 4277
+báo công trình: 4278
+đất: 4279
+83700: 4280
+hạng mục: 4281
+14139: 4282
+vui chơi: 4283
+giải trí: 4284
+6058: 4285
+29617: 4286
+277: 4287
+m21: 4288
+12417: 4289
+vpk: 4290
+bm: 4291
+360: 4292
+0025: 4293
+tổng hợp thành: 4294
+770: 4295
+644: 4296
+64422: 4297
+2927: 4298
+9017: 4299
+trả lời học: 4300
+892: 4301
+108: 4302
+973: 4303
+bình quântháng: 4304
+vnđ: 4305
+852: 4306
+xuất bản quy đổi: 4307
+7020: 4308
+5620: 4309
+280: 4310
+697520: 4311
+349: 4312
+047: 4313
+2122: 4314
+9545: 4315
+521: 4316
+1621: 4317
+7619: 4318
+5065: 4319
+048: 4320
+7021: 4321
+033: 4322
+5621: 4323
+267: 4324
+697521: 4325
+33: 4326
