@@ -9,8 +9,8 @@
 - pretrain <br>
   -- word_recommendation.h5 <br>
 - src <br>
- <nbsp>;<nbsp>;<nbsp>;<nbsp>; -- config.py <br>
-  <nbsp>;<nbsp>;<nbsp>;<nbsp>;-- datsets.py <br>
+   -- config.py <br>
+   -- datsets.py <br>
   -- inference.py <br>
   -- model.py  <br>
   -- test.py  <br>
