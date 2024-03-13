@@ -34,6 +34,19 @@ pip install -r requirement.txt
 cd ./src
 ```
 #### Training
+```
+python train.py
+```
+
+#### Inference 
+```
+python inference.py
+```
+
+#### Application
+```
+python word_recommend_api.py
+```
 
 
   
