@@ -2,7 +2,7 @@ from __future__ import division
 import flask
 import sys
 from tensorflow.keras.preprocessing.text import Tokenizer
-import word_recommend_biLSTM as library
+import inference as library
 from werkzeug.exceptions import HTTPException
 from flask_cors import CORS
 

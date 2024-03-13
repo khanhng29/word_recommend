@@ -52,8 +52,9 @@ class Datasets:
         return self.vocab_size
 
 # # Example usage:
-# file_path = "./data/data_19_9_2023.txt"
-# custom_dataset = Datasets(file_path)
-# X, y = custom_dataset.load_data()
-# vocab_size = custom_dataset.get_vocab_size()
-# print("Vocabulary size:", vocab_size)
+# file_path = "C:\\Users\\Admin\\Desktop\\word_recomment\\word_recommend\\data\\data_19_9_2023.txt"
+file_path = "../data/data_19_9_2023.txt"
+custom_dataset = Datasets(file_path)
+X, y = custom_dataset.load_data()
+vocab_size = custom_dataset.get_vocab_size()
+print("Vocabulary size:", vocab_size)

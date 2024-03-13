@@ -1,7 +1,7 @@
 MODEL_SAVE_PATH = "outputs"
-DATA_FILE_PATH = "./data_19_9_2023.txt"
-MODEL_PATH = './ouputs'
-TOKENIZER_PATH = './data/tokenizer.picker' 
+DATA_FILE_PATH = "../data_19_9_2023.txt"
+MODEL_PATH = '../ouputs'
+TOKENIZER_PATH = '../data/tokenizer.picker' 
 
 OUTPUT_DIM = 128
 DROPOUT_THRESHOLD = 0.5
