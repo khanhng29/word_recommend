@@ -17,8 +17,8 @@
   -- train.py <br>
   -- train_model.ipynb <br>
   -- word_recommend_api.py <br>
-- index.html <br>
-- requirement.txt <br>
+-index.html <br>
+-requirement.txt <br>
 
 
 ## Installation
@@ -30,8 +30,10 @@ conda create -y -n word_recommend python=3.11
 conda activate word_recommend
 git clone https://github.com/khanhng29/word_recommend.git
 cd word_recommend
-conda install requirement.txt
 pip install -r requirement.txt
+cd ./src
 ```
+#### Training
+
 
   
