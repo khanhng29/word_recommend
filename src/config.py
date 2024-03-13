@@ -1,7 +1,14 @@
-MODEL_SAVE_PATH = "outputs"
-DATA_FILE_PATH = "../data_19_9_2023.txt"
-MODEL_PATH = '../ouputs'
+MODEL_SAVE_PATH = "../pretrain/word_recommendation.h5"
+DATA_FILE_PATH = "../data/data_19_9_2023.txt"
+MODEL_PATH = '../pretrain/word_recommendation.h5'
 TOKENIZER_PATH = '../data/tokenizer.picker' 
+
+# MODEL_SAVE_PATH = "pretrain"
+# DATA_FILE_PATH = "C:\\Users\\Admin\\Desktop\\word_recomment\\word_recommend\\data\\data_19_9_2023.txt"
+# MODEL_PATH = './pretrain/word_recommendation.h5'
+# TOKENIZER_PATH = 'C:\\Users\\Admin\\Desktop\\word_recomment\\word_recommend\\data\\tokenizer.picker' 
+
+# C:\Users\Admin\Desktop\word_recomment\word_recommend\src\outputs__
 
 OUTPUT_DIM = 128
 DROPOUT_THRESHOLD = 0.5

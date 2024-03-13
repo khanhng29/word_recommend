@@ -36,5 +36,3 @@ class WordRecommendationModel:
 
     def save_model(self, filepath):
         self.model.save(filepath)
-
-
