@@ -61,7 +61,7 @@ To use web application, run word_recommend_api.py
 ```
 python word_recommend_api.py
 ```
-Get your local IP address from the active session, then update line 31 in the index.html file with this IP. Finally, open the index.html file in your browser to run web application.
+Get your local IP address from the active session, then update line 31 in the ```index.html``` file with this IP. Finally, open the index.html file in your browser to run web application.
 
 
   
