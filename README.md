@@ -29,6 +29,21 @@ Word recommendation system is a system that supports real-time text suggestions.
 - index.html <br>
 - requirement.txt <br>
 
+#### Config.py
+MODEL_SAVE_PATH:     <br>
+DATA_FILE_PATH :   <br>
+MODEL_PATH:  <br>
+TOKENIZER_PATH:  <br>
+OUTPUT_DIM:  <br>
+DROPOUT_THRESHOLD:  <br>
+LEARNING_RATE:  <br>
+BATCH_SIZE:  <br>
+EPOCHS:  <br>
+NUM_NEXT_WORDS:  <br>
+NUM_SAMPLES:  <br>
+MAX_SEQ_LEN:  <br>
+
+
 
 ## Installation
 For training and testing, you should use ```git clone``` for 
