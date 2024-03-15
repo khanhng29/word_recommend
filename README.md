@@ -17,16 +17,23 @@ Word recommendation system is a system that supports real-time text suggestions.
 - [Prerequisites](#prerequisites)
 - [Folder structure](#folder-structure)
   - [Configuration](#configuration-configpy)
-
-
-
-
+  - [Data Handling](#data-handling-datasetspy)
+  - [Model Structure](#model-structure-modelpy)
+  - [Training model](#training-model-trainpytrain_modelipynb)
+  - [Testing trained model](#testing-trained-model-inferencepy)
+  - [Application Programming Interface](#application-programming-interface-word_recommend_apipy)
+- [Installation](#installation)
+  - [Installing from source](#installing-from-source-recommended)
+  - [For anaconda3](#for-anaconda3)
+- [Training And Testing](#training-and-testing)
+  - [Train](#train)
+  - [Inference](#inference)
+  - [Application](#application)
 
 
 ## Prerequisites
 - Python version: ~3.11
 - Conda version: ~2.5 (option)
-- 
 
 
 ## Folder structure
