@@ -2,7 +2,7 @@
 
 
 ## Introduction
-Word recommendation system is a system that supports real-time text suggestions. When users use the "space" + "`", a series of suggested paragraphs will appear. The number of suggestions displayed and the number of suggested words are pre-set. word recommendation system will help users operate faster during the typing process<br>
+Word recommendation system is a system that supports real-time text suggestions. When users use the "space" + "`", a series of suggested paragraphs will appear. The number of suggestions displayed and the number of suggested words are pre-set. word recommendation system will help users operate faster during the typing process.<br>
 
 <p align="center">
   <img src='data/web_img.png' width='500'>
@@ -81,9 +81,12 @@ The ```datasets.py``` file handles data fetching and preprocessing:
 ### Model Structure [model.py](src/model.py)
 The ```model.py``` create the architecture of the LSTM model for compile, train and save.
 
-### Training model [train.py](src/train.py)/[train_model.ipynb](src/train_model.ipynb)
+### Training model [train.py](src/train.py)
 The ```train.py``` perform training on data loaded from ```datasets.py``` and model built from ```model.py```.<br>
-The ```train_model.ipynb``` perform training on Google Colab. The input data preprocessing steps and model structure are the same as local training.
+
+### Training model on Google Colab[train_model.ipynb](src/train_model.ipynb)
+The ```train_model.ipynb``` perform training on Google Colab. The data preprocessing steps and model structure are the same as local training.
+
 
 ### Testing trained model [inference.py](src/inference.py)
 Check the results of the trained model, the  ```inference.py``` contains functions for testing.<br>
