@@ -1,5 +1,6 @@
 # WORD RECOMMEND
 
+
 ## Introduction
 Word recommendation system is a system that supports real-time text suggestions. When users use the "space" + "`", a series of suggested paragraphs will appear. The number of suggestions displayed and the number of suggested words are pre-set. word recommendation system will help users operate faster during the typing process<br>
 
@@ -8,6 +9,9 @@ Word recommendation system is a system that supports real-time text suggestions.
 </p>
 <br>
 
+## Prerequisites
+- Python version: ~3.11
+- Conda version: ~2.5 (option)
 
 ## Folder structure
 - data <br>
@@ -28,7 +32,8 @@ Word recommendation system is a system that supports real-time text suggestions.
 - index.html <br>
 - requirement.txt <br>
 
-#### config.py
+### Configuration [config.py](src/config.py)
+The ```config.py``` file contains configuration settings used throughout the application:
 - **MODEL_SAVE_PATH**: Path to save trained model files<br>
 - **DATA_FILE_PATH** : Path to data files(.txt format)<br>
 - **TOKENIZER_PATH**: Path to tokenizer file <br>
@@ -41,10 +46,28 @@ Word recommendation system is a system that supports real-time text suggestions.
 - **NUM_SAMPLES**: The number of predictions you want to make. <br>
 - **MAX_SEQ_LEN**: Set maximum sentence length. <br>
 
-#### datasets.py
-- **load_data**: Load data from file path,
+### Data Handling [datasets.py](src/datasets.py)
+The ```datasets.py``` file handles data fetching and preprocessing:
+- Load data from file path.
+- Tokenize, remove special characters, lowercase.
+- Prepares features and target variables for model training.
 
+### Model Structure [model.py](src/model.py)
+The ```model.py``` create the architecture of the LSTM model for compile, train and save.
 
+### Training model [train.py](src/train.py)/[train_model.ipynb](src/train_model.ipynb)
+The ```train.py``` perform training on data loaded from ```datasets.py``` and model built from ```model.py```.<br>
+The ```train_model.ipynb``` perform training on Google Colab. The input data preprocessing steps and model structure are the same as local training.
+
+### Testing trained model [inference.py](src/inference.py)
+Check the results of the trained model, the  ```inference.py``` contains functions for testing.<br>
+- Load trained model and ```tokenizer.pickle```.
+- Embbeding input as same as input for training model.
+- Take the top 3 words that return the highest probabilities, randomly return 1 of those 3 words.
+- User can type input text , number of suggestions displayed and number of suggested words to test model.
+
+### Application Programming Interface [word_recommend_api.py](src/word_recommend_api.py)
+Build API.
 ## Installation
 For training and testing, you should use ```git clone``` for 
 installing all necessary packages.
