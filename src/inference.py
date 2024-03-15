@@ -1,18 +1,10 @@
-# import tokenize
 import random
 import tensorflow as tf
-# from tensorflow.keras import Sequential
-# from tensorflow.keras.layers import Embedding, LSTM, Dense, Bidirectional
 from tensorflow.keras.preprocessing.text import Tokenizer
 from tensorflow.keras.preprocessing.sequence import pad_sequences
-# from tensorflow.keras.optimizers import Adam
 import numpy as np
-# import regex as re
 import pickle
-# from pyvi import ViTokenizer
-# import pandas as pd
-# from underthesea import word_tokenize
-# import h5py
+
 from config import MODEL_SAVE_PATH, TOKENIZER_PATH
 def loading_model():
   global model
@@ -69,7 +61,6 @@ def output_encoding(predict_words):
 def predict_next_words(seed_text, num_predictions, word_dict, max_sequence_length, stop_words):
     predicted_words = []
     for _ in range(num_predictions):
-        # Dự đoán từ tiếp theo
         predicted_probs = model.predict(token_list, verbose=0)[0]
         top_n_indices = np.argsort(predicted_probs)[-num_predictions:][::-1]
         predicted_word = ""
@@ -78,9 +69,9 @@ def predict_next_words(seed_text, num_predictions, word_dict, max_sequence_lengt
                 predicted_word = word
                 break
         seed_text += " " + predicted_word
-        # Lưu từ tiếp theo vào danh sách
         predicted_words.append(predicted_word)
     return predicted_words
+
 def main():
     loading_model()
     while True:
