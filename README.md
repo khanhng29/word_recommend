@@ -28,20 +28,21 @@ Word recommendation system is a system that supports real-time text suggestions.
 - index.html <br>
 - requirement.txt <br>
 
-#### Config.py
-MODEL_SAVE_PATH: Path to save trained model files<br>
-DATA_FILE_PATH : Path to data files(.txt format)<br>
-TOKENIZER_PATH: Path to tokenizer file <br>
-OUTPUT_DIM: Specifies the dimensionality of the output of the embedding layer and BiLSTM layer.  <br>
-DROPOUT_THRESHOLD: Determine the threshold for the first LSTM layer. <br>
-LEARNING_RATE: Adam optimizer learning rate. <br>
-BATCH_SIZE: Batch size refers to the number of data samples used in each iteration during the training process.   <br>
-EPOCHS: An epoch is a single pass through the entire training dataset during the training process of a machine learning model. <br>
-NUM_NEXT_WORDS: The next number of words you want to predict. <br>
-NUM_SAMPLES: The number of predictions you want to make. <br>
-MAX_SEQ_LEN: Set maximum sentence length. <br>
+#### config.py
+- **MODEL_SAVE_PATH**: Path to save trained model files<br>
+- **DATA_FILE_PATH** : Path to data files(.txt format)<br>
+- **TOKENIZER_PATH**: Path to tokenizer file <br>
+- **OUTPUT_DIM**: Specifies the dimensionality of the output of the embedding layer and BiLSTM layer.  <br>
+- **DROPOUT_THRESHOLD**: Determine the threshold for the first LSTM layer. <br>
+- **LEARNING_RATE**: Adam optimizer learning rate. <br>
+- **BATCH_SIZE**: Batch size refers to the number of data samples used in each iteration during the training process.   <br>
+- **EPOCHS**: An epoch is a single pass through the entire training dataset during the training process of a machine learning model. <br>
+- **NUM_NEXT_WORDS**: The next number of words you want to predict. <br>
+- **NUM_SAMPLES**: The number of predictions you want to make. <br>
+- **MAX_SEQ_LEN**: Set maximum sentence length. <br>
 
-
+#### datasets.py
+- **load_data**: Load data from file path,
 
 
 ## Installation
