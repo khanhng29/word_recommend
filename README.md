@@ -1,5 +1,14 @@
 # WORD RECOMMEND
 
+## Introduction
+Word recommendation system is a system that supports real-time text suggestions. When users use the "space" + "`", a series of suggested paragraphs will appear. The number of suggestions displayed and the number of suggested words are pre-set. word recommendation system will help users operate faster during the typing process<br>
+
+<p align="center">
+  <img src='data/web_img.png' width='500'>
+</p>
+<br>
+
+
 ## Folder structure
 - data <br>
   &nbsp;&nbsp;&nbsp;&nbsp;-- data_19_9_2023.txt <br>
@@ -20,9 +29,24 @@
 - index.html <br>
 - requirement.txt <br>
 
+#### Config.py
+MODEL_SAVE_PATH:     <br>
+DATA_FILE_PATH :   <br>
+MODEL_PATH:  <br>
+TOKENIZER_PATH:  <br>
+OUTPUT_DIM:  <br>
+DROPOUT_THRESHOLD:  <br>
+LEARNING_RATE:  <br>
+BATCH_SIZE:  <br>
+EPOCHS:  <br>
+NUM_NEXT_WORDS:  <br>
+NUM_SAMPLES:  <br>
+MAX_SEQ_LEN:  <br>
+
+
 
 ## Installation
-For training and testing, you should use ``` git clone``` for 
+For training and testing, you should use ```git clone``` for 
 installing all necessary packages.
 ### For anaconda3:
 ```
@@ -33,20 +57,26 @@ cd word_recommend
 pip install -r requirement.txt
 cd ./src
 ```
-#### Training
+#### Train
+For training, you need to check the data path is set in ```config.py```. After training, you can check the model in the pretrain folder.
+If you don't want to train on local. You can use ```train_model.ipynb``` to train on Google colab and download the training results saved as a ```.h5``` file.<br>
+To training on local:
 ```
 python train.py
 ```
 
-#### Inference 
+#### Inference
+To test the trained model, run the ```inference.py``` file. When running this file you can type your text , number of suggestions displayed and number of suggested words.
 ```
 python inference.py
 ```
 
 #### Application
+To use web application, run word_recommend_api.py
 ```
 python word_recommend_api.py
 ```
+Get your local IP address from the active session, then update line 31 in the ```index.html``` file with this IP. Finally, open the index.html file in your browser to run web application.
 
 
   
