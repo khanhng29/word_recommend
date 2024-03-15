@@ -62,7 +62,7 @@ The ```config.py``` file contains configuration settings used throughout the app
 - **MODEL_SAVE_PATH**: Path to save trained model files<br>
 - **DATA_FILE_PATH** : Path to data files(.txt format)<br>
 - **TOKENIZER_PATH**: Path to tokenizer file <br>
-- **OUTPUT_DIM**: Specifies the dimensionality of the output of the embedding layer and BiLSTM layer.  <br>
+- **OUTPUT_DIM**: Specifies the dimensionality of the output of the embedding layer and biLSTM layer.  <br>
 - **DROPOUT_THRESHOLD**: Determine the threshold for the first biLSTM layer. <br>
 - **LEARNING_RATE**: Adam optimizer learning rate. <br>
 - **BATCH_SIZE**: Batch size refers to the number of data samples used in each iteration during the training process.   <br>
