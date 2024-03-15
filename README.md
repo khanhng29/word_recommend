@@ -63,7 +63,7 @@ The ```config.py``` file contains configuration settings used throughout the app
 - **DATA_FILE_PATH** : Path to data files(.txt format)<br>
 - **TOKENIZER_PATH**: Path to tokenizer file <br>
 - **OUTPUT_DIM**: Specifies the dimensionality of the output of the embedding layer and BiLSTM layer.  <br>
-- **DROPOUT_THRESHOLD**: Determine the threshold for the first LSTM layer. <br>
+- **DROPOUT_THRESHOLD**: Determine the threshold for the first biLSTM layer. <br>
 - **LEARNING_RATE**: Adam optimizer learning rate. <br>
 - **BATCH_SIZE**: Batch size refers to the number of data samples used in each iteration during the training process.   <br>
 - **EPOCHS**: An epoch is a single pass through the entire training dataset during the training process of a machine learning model. <br>
