@@ -9,9 +9,25 @@ Word recommendation system is a system that supports real-time text suggestions.
 </p>
 <br>
 
+
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Table of Contents](#table-of-contents)  
+- [Prerequisites](#prerequisites)
+- [Folder structure](#folder-structure)
+  - [Configuration](#configuration-configpy)
+
+
+
+
+
+
 ## Prerequisites
 - Python version: ~3.11
 - Conda version: ~2.5 (option)
+- 
+
 
 ## Folder structure
 - data <br>
@@ -31,6 +47,8 @@ Word recommendation system is a system that supports real-time text suggestions.
   &nbsp;&nbsp;&nbsp;&nbsp;-- word_recommend_api.py <br>
 - index.html <br>
 - requirement.txt <br>
+
+
 
 ### Configuration [config.py](src/config.py)
 The ```config.py``` file contains configuration settings used throughout the application:
@@ -67,10 +85,23 @@ Check the results of the trained model, the  ```inference.py``` contains functio
 - User can type input text , number of suggestions displayed and number of suggested words to test model.
 
 ### Application Programming Interface [word_recommend_api.py](src/word_recommend_api.py)
-Build API.
+Build API:
+- Use Werkzeug and Flask.
+- Receives data entered by the user from the web interface, uses ```inference.py``` to return the predicted word.
+- User interface use HTML and TinyMCE - a rich-text editor that allows users to create formatted content within a user-friendly interface
+
+
 ## Installation
 For training and testing, you should use ```git clone``` for 
 installing all necessary packages.
+
+### Installing from source (recommended)
+```
+git clone https://github.com/khanhng29/word_recommend.git
+cd word_recommend
+pip install -r requirement.txt
+```
+
 ### For anaconda3:
 ```
 conda create -y -n word_recommend python=3.11
@@ -78,26 +109,27 @@ conda activate word_recommend
 git clone https://github.com/khanhng29/word_recommend.git
 cd word_recommend
 pip install -r requirement.txt
-cd ./src
 ```
+## Training And Testing
+
 #### Train
 For training, you need to check the data path is set in ```config.py```. After training, you can check the model in the pretrain folder.
 If you don't want to train on local. You can use ```train_model.ipynb``` to train on Google colab and download the training results saved as a ```.h5``` file.<br>
 To training on local:
 ```
-python train.py
+python ./src/train.py
 ```
 
 #### Inference
 To test the trained model, run the ```inference.py``` file. When running this file you can type your text , number of suggestions displayed and number of suggested words.
 ```
-python inference.py
+python ./src/inference.py
 ```
 
 #### Application
 To use web application, run word_recommend_api.py
 ```
-python word_recommend_api.py
+python ./src/word_recommend_api.py
 ```
 Get your local IP address from the active session, then update line 31 in the ```index.html``` file with this IP. Finally, open the index.html file in your browser to run web application.
 
