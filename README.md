@@ -76,6 +76,7 @@ The ```datasets.py``` file handles data fetching and preprocessing:
 - Load data from file path.
 - Tokenize, remove special characters, lowercase.
 - Prepares features and target variables for model training.
+- More about [data](data/README.md)
 
 ### Model Structure [model.py](src/model.py)
 The ```model.py``` create the architecture of the LSTM model for compile, train and save.
