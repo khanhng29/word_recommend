@@ -1,4 +1,10 @@
+The folder containing data files that support the training and testing process
 
+## Files
+- data_19_9_2023.txt <br>
+- tokenizer.picker
+- vietnamese-stopwords.txt
+- word_dict.txt
 
 ## Training data [data_19_9_2023.txt](data/data_19_9_2023.txt)
 Data is stored as .txt .<br>
