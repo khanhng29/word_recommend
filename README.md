@@ -5,7 +5,7 @@
 Word recommendation system is a system that supports real-time text suggestions. When users use the "space" + "`", a series of suggested paragraphs will appear. The number of suggestions displayed and the number of suggested words are pre-set. word recommendation system will help users operate faster during the typing process.<br>
 
 <p align="center">
-  <img src='data/web_img.png' width='500'>
+  <img src='images/web_img.png' width='500'>
 </p>
 <br>
 
