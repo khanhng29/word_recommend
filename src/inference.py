@@ -1,22 +1,22 @@
-import tokenize
+# import tokenize
 import random
 import tensorflow as tf
-from tensorflow.keras import Sequential
-from tensorflow.keras.layers import Embedding, LSTM, Dense, Bidirectional
+# from tensorflow.keras import Sequential
+# from tensorflow.keras.layers import Embedding, LSTM, Dense, Bidirectional
 from tensorflow.keras.preprocessing.text import Tokenizer
 from tensorflow.keras.preprocessing.sequence import pad_sequences
-from tensorflow.keras.optimizers import Adam
+# from tensorflow.keras.optimizers import Adam
 import numpy as np
-import regex as re
+# import regex as re
 import pickle
-from pyvi import ViTokenizer
-import pandas as pd
+# from pyvi import ViTokenizer
+# import pandas as pd
 # from underthesea import word_tokenize
-import h5py
-from config import MODEL_PATH, TOKENIZER_PATH
+# import h5py
+from config import MODEL_SAVE_PATH, TOKENIZER_PATH
 def loading_model():
   global model
-  model = tf.keras.models.load_model(MODEL_PATH)
+  model = tf.keras.models.load_model(MODEL_SAVE_PATH)
 
   global model_ffnn
   global tokenizer
@@ -66,20 +66,6 @@ def output_encoding(predict_words):
             }
     return(data)
 
-# def pre_processing(seed_text, num_predictions, word_dict, max_sequence_length, stop_words):
-#     # Loại bỏ các ký tự đặc biệt
-#     seed_text_cleaned = re.sub(
-#         r'[^a-zA-Z0-9\sđĐáÁàÀảẢãÃạẠăĂắẮằẰẳẲẵẴạẠâÂấẤầẦẩẨẫẪậẬêÊếẾềỀểỂễỄệỆôÔốỐồỒổỔỗỖộỘơƠớỚờỜởỞỡỠợỢưƯứỨừỪửỬữỮựỰơƠáÁàÀảẢãÃạẠéÉèÈẻẺẽẼếẾềỀểỂễỄếẾêÊấẤầẦẩẨẫẪậẬíÍìÌỉỈĩĨịỊóÓòÒỏỎõÕọỌốỐồỒổỔỗỖộỘơƠớỚờỜởỞỡỠợỢúÚùÙủỦũŨụỤưỪỨừỪửỬữỮựỰýÝỳỲỷỶỹỸỵỴ\s]+',
-#         '', seed_text).lower()
-#     # Tách từ
-#     tokens_pyvi = ViTokenizer.tokenize(seed_text_cleaned).split()
-#     tokens_underthesea = word_tokenize(" ".join(tokens_pyvi))
-#     words = [token.replace('_', ' ') for token in tokens_underthesea]
-#     # Loại bỏ stop word
-#     words = [word for word in words if word not in stop_words]
-#     # Thêm padding phía trước mỗi câu nếu câu ngắn
-#     token_list = [word_dict[word] for word in words]
-#     token_list = pad_sequences([token_list], maxlen=max_sequence_length - 1, padding='pre')
 def predict_next_words(seed_text, num_predictions, word_dict, max_sequence_length, stop_words):
     predicted_words = []
     for _ in range(num_predictions):

@@ -1,4 +1,3 @@
-# import tensorflow as tf
 from tensorflow.keras.optimizers import Adam
 from datasets import Datasets
 from model import WordRecommendationModel
