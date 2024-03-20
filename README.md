@@ -1,4 +1,4 @@
-# WORD RECOMMEND
+# WORD RECOMMENDATION
 
 
 ## Introduction
@@ -22,6 +22,7 @@ Word recommendation system is a system that supports real-time text suggestions.
   - [Training model](#training-model-trainpytrain_modelipynb)
   - [Testing trained model](#testing-trained-model-inferencepy)
   - [Application Programming Interface](#application-programming-interface-word_recommend_apipy)
+  - [Docker]()
 - [Installation](#installation)
   - [Installing from source](#installing-from-source-recommended)
   - [For anaconda3](#for-anaconda3)
@@ -37,28 +38,32 @@ Word recommendation system is a system that supports real-time text suggestions.
 
 
 ## Folder structure
-- data <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;-- data_19_9_2023.txt <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;-- tokenizer.picker <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;-- vietnamese-stopwords.txt <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;-- word_dict.txt <br>
-- pretrain <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;-- word_recommendation.h5 <br>
-- doc <br>
-&nbsp;&nbsp;&nbsp;&nbsp;-- build_docker_img_en.md <br>
-&nbsp;&nbsp;&nbsp;&nbsp;-- build_docker_img_vi.md  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;-- docker_pull_en.md <br>
-&nbsp;&nbsp;&nbsp;&nbsp;-- docker_pull_vi.md <br>
-- src <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;-- config.py <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;-- datsets.py <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;-- inference.py <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;-- model.py  <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;-- train.py <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;-- train_model.ipynb <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;-- word_recommend_api.py <br>
-- index.html <br>
-- requirement.txt <br>
+WORD RECOMMENDATION<br>
+├──&nbsp;&nbsp;data <br>
+&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├──&nbsp;&nbsp;data_19_9_2023.txt <br>
+&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├──&nbsp;&nbsp;tokenizer.picker <br>
+&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├──&nbsp;&nbsp;vietnamese-stopwords.txt <br>
+&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├──&nbsp;&nbsp;word_dict.txt <br>
+├──&nbsp;&nbsp;pretrain <br>
+&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└──&nbsp;&nbsp;word_recommendation.h5 <br>
+├──&nbsp;&nbsp;doc <br>
+&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├──&nbsp;&nbsp;build_docker_img_en.md <br>
+&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├──&nbsp;&nbsp;build_docker_img_vi.md  <br>
+&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├──&nbsp;&nbsp;docker_pull_en.md <br>
+&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├──&nbsp;&nbsp;docker_pull_vi.md <br>
+├──&nbsp;&nbsp;images <br>
+&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└──&nbsp;&nbsp;web_img.png <br>
+├──&nbsp;&nbsp;src <br>
+&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├──&nbsp;&nbsp;config.py <br>
+&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├──&nbsp;&nbsp;datsets.py <br>
+  &nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├──&nbsp;&nbsp;inference.py <br>
+  &nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├──&nbsp;&nbsp;model.py  <br>
+  &nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├──&nbsp;&nbsp;train.py <br>
+  &nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├──&nbsp;&nbsp;train_model.ipynb <br>
+  &nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├──&nbsp;&nbsp;word_recommend_api.py <br>
+├──&nbsp;&nbsp;index.html <br>
+├──&nbsp;&nbsp;requirement.txt <br>
+
 
 
 
@@ -106,7 +111,7 @@ Build API:
 - Receives data entered by the user from the web interface, uses ```inference.py``` to return the predicted word.
 - User interface use HTML and TinyMCE - a rich-text editor that allows users to create formatted content within a user-friendly interface
 
-### [Docker](doc)
+### Docker
 - Instructions for building Docker images. ([vietnamese](doc/build_docker_img_vi.md), [english](doc/build_docker_img_en.md))
 - Instruction for download and run container applications in your computer. ([vietnamese](doc/docker_pull_vi.md), [english](doc/docker_pull_en.md))
 
