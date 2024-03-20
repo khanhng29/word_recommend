@@ -44,6 +44,11 @@ Word recommendation system is a system that supports real-time text suggestions.
   &nbsp;&nbsp;&nbsp;&nbsp;-- word_dict.txt <br>
 - pretrain <br>
   &nbsp;&nbsp;&nbsp;&nbsp;-- word_recommendation.h5 <br>
+- doc <br>
+&nbsp;&nbsp;&nbsp;&nbsp;-- build_docker_img_en.md <br>
+&nbsp;&nbsp;&nbsp;&nbsp;-- build_docker_img_vi.md  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;-- docker_pull_en.md <br>
+&nbsp;&nbsp;&nbsp;&nbsp;-- docker_pull_vi.md <br>
 - src <br>
   &nbsp;&nbsp;&nbsp;&nbsp;-- config.py <br>
   &nbsp;&nbsp;&nbsp;&nbsp;-- datsets.py <br>
@@ -84,7 +89,7 @@ The ```model.py``` create the architecture of the LSTM model for compile, train 
 ### Training model [train.py](src/train.py)
 The ```train.py``` perform training on data loaded from ```datasets.py``` and model built from ```model.py```.<br>
 
-### Training model on Google Colab [train_model.ipynb](src/train_model.ipynb)
+### Training model on Google Colab[train_model.ipynb](src/train_model.ipynb)
 The ```train_model.ipynb``` perform training on Google Colab. The data preprocessing steps and model structure are the same as local training.
 
 
@@ -101,6 +106,9 @@ Build API:
 - Receives data entered by the user from the web interface, uses ```inference.py``` to return the predicted word.
 - User interface use HTML and TinyMCE - a rich-text editor that allows users to create formatted content within a user-friendly interface
 
+### [Docker](doc)
+- Instructions for building Docker images. ([vietnamese](doc/build_docker_img_vi.md), [english](doc/build_docker_img_en.md))
+- Instruction for download and run container applications in your computer. ([vietnamese](doc/docker_pull_vi.md), [english](doc/docker_pull_en.md))
 
 ## Installation
 For training and testing, you should use ```git clone``` for 
