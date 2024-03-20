@@ -49,6 +49,8 @@ Word recommendation system is a system that supports real-time text suggestions.
 &nbsp;&nbsp;&nbsp;&nbsp;-- build_docker_img_vi.md  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;-- docker_pull_en.md <br>
 &nbsp;&nbsp;&nbsp;&nbsp;-- docker_pull_vi.md <br>
+- images <br>
+&nbsp;&nbsp;&nbsp;&nbsp;-- web_img.png <br>
 - src <br>
   &nbsp;&nbsp;&nbsp;&nbsp;-- config.py <br>
   &nbsp;&nbsp;&nbsp;&nbsp;-- datsets.py <br>
