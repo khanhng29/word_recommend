@@ -84,7 +84,7 @@ The ```model.py``` create the architecture of the LSTM model for compile, train 
 ### Training model [train.py](src/train.py)
 The ```train.py``` perform training on data loaded from ```datasets.py``` and model built from ```model.py```.<br>
 
-### Training model on Google Colab[train_model.ipynb](src/train_model.ipynb)
+### Training model on Google Colab [train_model.ipynb](src/train_model.ipynb)
 The ```train_model.ipynb``` perform training on Google Colab. The data preprocessing steps and model structure are the same as local training.
 
 
