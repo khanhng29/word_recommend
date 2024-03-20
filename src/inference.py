@@ -34,6 +34,7 @@ def generate_text(seed_text, next_words, num_samples):
     generated_texts = []
     for _ in range(num_samples):
         generated_text = seed_text
+        input_len = len(seed_text) + 1
         for _ in range(next_words):
             token_list = tokenizer.texts_to_sequences([generated_text])[0]
             token_list = pad_sequences([token_list], maxlen=max_seq_len - 1, padding='pre')
@@ -41,9 +42,8 @@ def generate_text(seed_text, next_words, num_samples):
             chosen_word = getPredict(predicted_probs)
             generated_text += " " + chosen_word
             generated_text = generated_text.replace("_", " ")
-        generated_texts.append(generated_text)
+        generated_texts.append(generated_text[input_len:])
         encoding_result = output_encoding(generated_texts)
-
     return encoding_result
 
 def getPredict(predicted_probs):
@@ -83,6 +83,16 @@ def main():
         print("Kết quả dự đoán:")
         print(generate_text(seed_text, next_words, num_samples))
 
+# def main():
+#     loading_model()
+    
+#     # Cố định các giá trị để dự đoán mà không cần nhập từ người dùng
+#     seed_text = "Đây là một đoạn văn bản mẫu."
+#     next_words = 3
+#     num_samples = 3
+    
+#     print("Kết quả dự đoán:")
+#     print(generate_text(seed_text, next_words, num_samples))
 if __name__ == '__main__':
     main()
 

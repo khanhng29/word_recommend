@@ -26,7 +26,6 @@ def handle_error(e):
         "error": str(e)
     }), code
 
-
 @app.route("/words_rs_biLSTM", methods=["POST"])
 def predict():
     try:

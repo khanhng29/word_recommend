@@ -7,6 +7,6 @@ pandas==2.2.1
 pyvi==0.1.1
 regex==2023.10.3
 tensorflow==2.15.0
-tensorflow_intel==2.15.0
+
 underthesea==6.8.0
 Werkzeug==2.2.2
