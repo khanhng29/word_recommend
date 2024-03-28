@@ -1,0 +1,13 @@
+version: '1'
+
+services:
+  recommender:
+    image: word-recommender:v1
+    ports:
+      - "5555:5555"
+    networks:
+      - my_network
+
+networks:
+  my_network:
+    driver: bridge
