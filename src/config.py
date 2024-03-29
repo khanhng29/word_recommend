@@ -1,6 +1,6 @@
-MODEL_SAVE_PATH = "../pretrain/word_recommendation.h5"
-DATA_FILE_PATH = "../data/data_19_9_2023.txt"
-TOKENIZER_PATH = '../data/tokenizer.picker' 
+MODEL_SAVE_PATH = "./pretrain/word_recommendation.h5"
+DATA_FILE_PATH = "./data/data_19_9_2023.txt"
+TOKENIZER_PATH = './data/tokenizer.picker'
 
 OUTPUT_DIM = 128
 DROPOUT_THRESHOLD = 0.5
@@ -10,4 +10,3 @@ EPOCHS = 1
 NUM_NEXT_WORDS = 2
 NUM_SAMPLES = 5
 MAX_SEQ_LEN = 26
-
