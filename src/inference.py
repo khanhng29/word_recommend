@@ -6,6 +6,7 @@ import numpy as np
 import pickle
 
 from config import MODEL_SAVE_PATH, TOKENIZER_PATH
+
 def loading_model():
   global model
   model = tf.keras.models.load_model(MODEL_SAVE_PATH)
@@ -83,16 +84,16 @@ def main():
         print("Kết quả dự đoán:")
         print(generate_text(seed_text, next_words, num_samples))
 
-# def main():
-#     loading_model()
+def main_test():
+    loading_model()
     
-#     # Cố định các giá trị để dự đoán mà không cần nhập từ người dùng
-#     seed_text = "Đây là một đoạn văn bản mẫu."
-#     next_words = 3
-#     num_samples = 3
+    # Cố định các giá trị để dự đoán mà không cần nhập từ người dùng
+    seed_text = "Đây là một đoạn văn bản mẫu."
+    next_words = 3
+    num_samples = 3
     
-#     print("Kết quả dự đoán:")
-#     print(generate_text(seed_text, next_words, num_samples))
+    print("Kết quả dự đoán:")
+    print(generate_text(seed_text, next_words, num_samples))
 if __name__ == '__main__':
     main()
 
