@@ -15,7 +15,7 @@ kind: Deployment
 metadata:
   name: recommender-deployment
 spec:
-  replicas: 3
+  replicas: 2
   selector:
     matchLabels:
       app: recommender
@@ -26,6 +26,6 @@ spec:
     spec:
       containers:
         - name: recommender
-          image: word-recommender:v1
+          image: word_recommender:lates
           ports:
             - containerPort: 5555
