@@ -9,6 +9,7 @@ spec:
     - protocol: TCP
       port: 80
       targetPort: 5555
+  type: LoadBalancer
 ---
 apiVersion: apps/v1
 kind: Deployment
@@ -29,3 +30,11 @@ spec:
           image: word_recommender:lates
           ports:
             - containerPort: 5555
+          resources:
+            limits:
+              cpu: "1"
+              memory: "512Mi"
+            requests:
+              cpu: "0.5"
+              memory: "256Mi"
+
